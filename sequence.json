@@ -1,0 +1,30 @@
+{
+  "project": "MOSAIC (Whose Windows Glow?)",
+  "status": "visual-development",
+  "selected_reference_take": "38f117cc-015a-4c44-98dd-cfae3f1acd89",
+  "suno_url": "https://suno.com/song/38f117cc-015a-4c44-98dd-cfae3f1acd89",
+  "source_video": "https://www.youtube.com/watch?v=cB1GNO95iog",
+  "source_title": "Machine Learning Street Talk interview with Alex Imas",
+  "runtime_s": 276.56,
+  "timing_basis": "Suno lyric alignment and audio structural analysis; take 1; audio not downloaded",
+  "suno_measured_bpm": 107.5,
+  "suno_measured_key": "G major",
+  "suno_measured_meter": 4,
+  "scenes": [
+    {"start":0.0,"end":8.984,"id":"00_origin","motif":"single luminous tile","source_s":129,"source_claim":"The economically relevant unit is the organization.","caption":"A SINGLE PIECE","camera":"researcher"},
+    {"start":8.984,"end":22.36,"id":"01_pieces","motif":"voices light separate tiles","source_s":180,"source_claim":"Comparative advantage organizes people by relative strengths.","caption":"A THOUSAND DIFFERENT HANDS","camera":"researcher"},
+    {"start":22.36,"end":40.008,"id":"02_hockey","motif":"ascending chart against persistent city","source_s":77,"source_claim":"AI capabilities accelerate without commensurate observed macroeconomic growth.","caption":"A HOCKEY STICK / A MODEST GRAPH","camera":"chart"},
+    {"start":40.008,"end":58.412,"id":"03_mosaic","motif":"tiles interlock; no voice occupies every part","source_s":188,"source_claim":"Mosaic intelligence emerges from comparative advantage in organizations.","caption":"MOSAIC INTELLIGENCE","camera":"organization"},
+    {"start":58.412,"end":78.743,"id":"04_prices","motif":"commodity tiles multiply; city windows unevenly illuminate","source_s":322,"source_claim":"Automation lowers production costs and prices; measured GDP need not explode.","caption":"MORE ON THE SHELVES / LESS ON THE TAGS","camera":"city"},
+    {"start":78.743,"end":92.575,"id":"05_questions","motif":"city windows light out of sync","source_s":482,"source_claim":"Demand and purchasing power matter: who can buy the new output?","caption":"WHO GETS TO BRING IT HOME?","camera":"windows"},
+    {"start":92.575,"end":120.548,"id":"06_harvest","motif":"wheat expands while its chart-share shrinks","source_s":302,"source_claim":"Agriculture became more productive while its share of the economy fell.","caption":"A LARGER HARVEST / A SMALLER SHARE","camera":"wheat"},
+    {"start":120.548,"end":138.64,"id":"07_doorway","motif":"labor-market doors branch into uncertain trajectories","source_s":1024,"source_claim":"Existing scalable markets and new markets have different wage implications.","caption":"A DOORWAY IS NOT PASSAGE","camera":"wanderer"},
+    {"start":138.64,"end":169.532,"id":"08_return","motif":"return to the city through alternate route, not a jump cut","source_s":568,"source_claim":"Transformative subjective experience can exceed headline growth statistics.","caption":"WHOSE WINDOWS GLOW?","camera":"city"},
+    {"start":169.532,"end":187.107,"id":"09_political","motif":"acceleration stalls against human institutions","source_s":835,"source_claim":"Political economy and control are conditions, not irrelevant obstacles.","caption":"WHAT WOULD HAVE TO BE TRUE?","camera":"civic"},
+    {"start":187.107,"end":205.0,"id":"10_cross_fields","motif":"research tiles connect to other disciplines","source_s":1151,"source_claim":"AI expands which fields and questions the researcher can investigate.","caption":"WHERE THE OLD MAPS END","camera":"researcher"},
+    {"start":205.0,"end":225.606,"id":"11_seams","motif":"examine tile edges, provenance, failed joins","source_s":1178,"source_claim":"The researcher verifies work in new fields and shapes the argument.","caption":"SHOW ME THE SOURCE / SHOW ME THE SEAM","camera":"seam"},
+    {"start":225.606,"end":247.705,"id":"12_all_windows","motif":"harmonic reveal with windows individually switching on","source_s":355,"source_claim":"Flourishing and measured GDP growth are distinct questions.","caption":"LET EVERY WINDOW GLOW","camera":"city"},
+    {"start":247.705,"end":268.252,"id":"13_disassemble","motif":"original independent fragments separate, still traceable","source_s":188,"source_claim":"Complementarity makes the organizational mosaic; pieces retain identity.","caption":"ONE LITTLE PIECE / ONE LITTLE LINE","camera":"full"},
+    {"start":268.252,"end":276.56,"id":"14_last_seam","motif":"camera follows a single illuminated border, no false completion","source_s":1205,"source_claim":"Human retains responsibility for the final argument.","caption":"AND THE SEAMS STILL SHOW","camera":"seam"}
+  ]
+}
