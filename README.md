@@ -34,3 +34,16 @@ Rendering is intentionally reproducible: no additional inference, APIs, paid gen
 ## Asset handoff
 
 The original album artwork and silent MP4 preview are included in the accompanying ChatGPT prototype ZIP, but they have **not** been added to GitHub by the connected API. Copy `assets/cover.png` from the prototype ZIP into this checkout before running the renderer. Do not replace the source art with a guessed or generated lookalike. Audio is not checked into Git.
+
+## Import the canonical cover
+
+Download the prototype ZIP provided in this chat, then run:
+
+```sh
+python scripts/import_prototype.py mosaic_film_prototype.zip
+pip install -r requirements.txt
+python render.py --seconds 48 --fps 20 --size 640
+python -m unittest discover -s tests -v
+```
+
+The importer validates the original cover by SHA-256. No placeholder or alternative art is silently substituted.
