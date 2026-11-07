@@ -1,0 +1,1 @@
+numpy>=1.26\nopencv-python>=4.8\nPillow>=10.0\n
