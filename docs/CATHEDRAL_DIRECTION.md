@@ -1,3 +1,5 @@
+> **UPDATE — production baseline (November 7, 2026):** The user explicitly chose a **one-direction left-to-right lyric side-scroller** as the baseline. Start with [LINEAR_BASELINE.md](../production/LINEAR_BASELINE.md), [frieze_manifest.json](../production/frieze_manifest.json) and [ASSET_HANDOFF.md](../production/ASSET_HANDOFF.md). Any statement below implying a serpentine path, initial full-wall reveal, or arbitrary scenic discovery is SUPERSEDED. Begin close on the first maker; each new lyrical scene is farther RIGHT. After the final lyric, the 3D camera may pull away without horizontal backtracking. The real asset target is a 39m×2m fixed frieze and its supplied cathedral; built-in Blender geometry is only a blockout.
+
 # MOSAIC — Cathedral mural film direction (accepted concept)
 
 ## Creative premise
