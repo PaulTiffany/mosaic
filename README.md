@@ -1,3 +1,5 @@
+> **CURRENT FIRST DELIVERABLE — [VIEW ALL 106 STORYBOARD FRAMES](production/STORYBOARD_MAP.md)**. First inspect/edit the whole film's 106 line-specific scene map. Next, make **one image generation per lyric**, each outpainting to the RIGHT from a PIXEL-LOCKED overlap of the previous accepted image. [Full 106-job generation plan](production/LINE_GENERATION_PLAN.json). The previous suggestion to independently generate 13 chapter pictures or three pilot chapters was superseded. The 13 chapters are only organizational/rendering groups; final wall dimensions are provisional until per-line legibility is tested. The existing 13-plate assembler/Blender scaffold is NOT YET upgraded to consume 106 outpainted scenes.
+
 # MOSAIC — one-dimensional lyric film inside a static 3D cathedral
 
 **Creative baseline:** one finished panoramic mural, read from LEFT to RIGHT in the exact order of the sung lyrics. A photorealistic cathedral is **static geometry**. The **only animated thing is a real 3D camera** moving along the mural and pulling back at the end.
