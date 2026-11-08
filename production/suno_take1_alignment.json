@@ -1,0 +1,3939 @@
+{
+  "source": "Suno audio_lyrics_alignment",
+  "clip_id": "38f117cc-015a-4c44-98dd-cfae3f1acd89",
+  "song_url": "https://suno.com/song/38f117cc-015a-4c44-98dd-cfae3f1acd89",
+  "status": "complete",
+  "provenance": "Model-derived best-effort, independent spot-check required; metadata segment tags included in raw word tokens.",
+  "words": [
+    {
+      "word": "[Intro – isolated piano notes, fragmented electronic voices]\n\n\n[Voice 1]\nOne",
+      "start_s": 8.984,
+      "end_s": 9.28,
+      "success": true
+    },
+    {
+      "word": " little",
+      "start_s": 9.452,
+      "end_s": 9.932,
+      "success": true
+    },
+    {
+      "word": " piece",
+      "start_s": 10.126,
+      "end_s": 10.526,
+      "success": true
+    },
+    {
+      "word": "\n\n[Voice 2]\nOne",
+      "start_s": 11.278,
+      "end_s": 11.523,
+      "success": true
+    },
+    {
+      "word": " little",
+      "start_s": 11.627,
+      "end_s": 12.276,
+      "success": true
+    },
+    {
+      "word": " line",
+      "start_s": 12.33,
+      "end_s": 12.688,
+      "success": true
+    },
+    {
+      "word": "\n\n[Voice 3]\nA",
+      "start_s": 13.34,
+      "end_s": 13.42,
+      "success": true
+    },
+    {
+      "word": " hundred",
+      "start_s": 13.438,
+      "end_s": 13.998,
+      "success": true
+    },
+    {
+      "word": " colors",
+      "start_s": 14.34,
+      "end_s": 14.874,
+      "success": true
+    },
+    {
+      "word": "\n\n[All, softly]\nMaking",
+      "start_s": 16,
+      "end_s": 16.541,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 16.541,
+      "end_s": 16.805,
+      "success": true
+    },
+    {
+      "word": " w",
+      "start_s": 16.805,
+      "end_s": 17.259,
+      "success": true
+    },
+    {
+      "word": "ider",
+      "start_s": 17.259,
+      "end_s": 17.579,
+      "success": true
+    },
+    {
+      "word": " mind",
+      "start_s": 17.619,
+      "end_s": 17.939,
+      "success": true
+    },
+    {
+      "word": "\n\n[Verse 1 – intimate male vocal, clean guitar]\nHo",
+      "start_s": 22.36,
+      "end_s": 22.394,
+      "success": true
+    },
+    {
+      "word": "ck",
+      "start_s": 22.394,
+      "end_s": 22.462,
+      "success": true
+    },
+    {
+      "word": "ey",
+      "start_s": 22.462,
+      "end_s": 22.649,
+      "success": true
+    },
+    {
+      "word": " stick",
+      "start_s": 22.649,
+      "end_s": 22.771,
+      "success": true
+    },
+    {
+      "word": "s",
+      "start_s": 22.771,
+      "end_s": 22.919,
+      "success": true
+    },
+    {
+      "word": " climbing",
+      "start_s": 22.919,
+      "end_s": 23.272,
+      "success": true
+    },
+    {
+      "word": " on",
+      "start_s": 23.272,
+      "end_s": 23.454,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 23.458,
+      "end_s": 23.539,
+      "success": true
+    },
+    {
+      "word": " glowing",
+      "start_s": 23.539,
+      "end_s": 24.005,
+      "success": true
+    },
+    {
+      "word": " screen",
+      "start_s": 24.005,
+      "end_s": 24.485,
+      "success": true
+    },
+    {
+      "word": "\nSame",
+      "start_s": 24.516,
+      "end_s": 24.893,
+      "success": true
+    },
+    {
+      "word": " old",
+      "start_s": 24.893,
+      "end_s": 25.204,
+      "success": true
+    },
+    {
+      "word": " numbers",
+      "start_s": 25.204,
+      "end_s": 25.554,
+      "success": true
+    },
+    {
+      "word": " in",
+      "start_s": 25.554,
+      "end_s": 25.607,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 25.607,
+      "end_s": 25.71,
+      "success": true
+    },
+    {
+      "word": " morning",
+      "start_s": 25.71,
+      "end_s": 26.264,
+      "success": true
+    },
+    {
+      "word": " news",
+      "start_s": 26.264,
+      "end_s": 26.584,
+      "success": true
+    },
+    {
+      "word": "\nA",
+      "start_s": 26.792,
+      "end_s": 26.872,
+      "success": true
+    },
+    {
+      "word": " cook",
+      "start_s": 26.898,
+      "end_s": 27.101,
+      "success": true
+    },
+    {
+      "word": " knows",
+      "start_s": 27.101,
+      "end_s": 27.395,
+      "success": true
+    },
+    {
+      "word": " fire",
+      "start_s": 27.395,
+      "end_s": 27.615,
+      "success": true
+    },
+    {
+      "word": ", a c",
+      "start_s": 27.615,
+      "end_s": 27.736,
+      "success": true
+    },
+    {
+      "word": "od",
+      "start_s": 27.736,
+      "end_s": 27.844,
+      "success": true
+    },
+    {
+      "word": "er",
+      "start_s": 27.844,
+      "end_s": 27.983,
+      "success": true
+    },
+    {
+      "word": " knows",
+      "start_s": 27.983,
+      "end_s": 28.344,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 28.344,
+      "end_s": 28.478,
+      "success": true
+    },
+    {
+      "word": " keys",
+      "start_s": 28.478,
+      "end_s": 28.811,
+      "success": true
+    },
+    {
+      "word": "\nEverybody",
+      "start_s": 29.102,
+      "end_s": 29.682,
+      "success": true
+    },
+    {
+      "word": " brings",
+      "start_s": 29.682,
+      "end_s": 30.019,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 30.019,
+      "end_s": 30.182,
+      "success": true
+    },
+    {
+      "word": " different",
+      "start_s": 30.207,
+      "end_s": 30.746,
+      "success": true
+    },
+    {
+      "word": " view",
+      "start_s": 30.746,
+      "end_s": 31.066,
+      "success": true
+    },
+    {
+      "word": "\nPut",
+      "start_s": 31.621,
+      "end_s": 31.757,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 31.757,
+      "end_s": 31.872,
+      "success": true
+    },
+    {
+      "word": " pieces",
+      "start_s": 31.872,
+      "end_s": 32.156,
+      "success": true
+    },
+    {
+      "word": " where",
+      "start_s": 32.156,
+      "end_s": 32.319,
+      "success": true
+    },
+    {
+      "word": " their",
+      "start_s": 32.319,
+      "end_s": 32.494,
+      "success": true
+    },
+    {
+      "word": " edges",
+      "start_s": 32.494,
+      "end_s": 32.941,
+      "success": true
+    },
+    {
+      "word": " shine",
+      "start_s": 32.941,
+      "end_s": 33.341,
+      "success": true
+    },
+    {
+      "word": "\nLet",
+      "start_s": 33.814,
+      "end_s": 33.972,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 33.972,
+      "end_s": 34.124,
+      "success": true
+    },
+    {
+      "word": " colors",
+      "start_s": 34.124,
+      "end_s": 34.376,
+      "success": true
+    },
+    {
+      "word": " find",
+      "start_s": 34.376,
+      "end_s": 34.589,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 34.589,
+      "end_s": 34.688,
+      "success": true
+    },
+    {
+      "word": " way",
+      "start_s": 34.688,
+      "end_s": 34.974,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 35.003,
+      "end_s": 35.163,
+      "success": true
+    },
+    {
+      "word": " meet",
+      "start_s": 35.208,
+      "end_s": 35.514,
+      "success": true
+    },
+    {
+      "word": "\nNo",
+      "start_s": 35.514,
+      "end_s": 35.709,
+      "success": true
+    },
+    {
+      "word": " single",
+      "start_s": 35.709,
+      "end_s": 36.164,
+      "success": true
+    },
+    {
+      "word": " mind",
+      "start_s": 36.164,
+      "end_s": 36.484,
+      "success": true
+    },
+    {
+      "word": " can",
+      "start_s": 36.493,
+      "end_s": 36.593,
+      "success": true
+    },
+    {
+      "word": " draw",
+      "start_s": 36.593,
+      "end_s": 36.805,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 36.805,
+      "end_s": 36.914,
+      "success": true
+    },
+    {
+      "word": " whole",
+      "start_s": 36.914,
+      "end_s": 37.356,
+      "success": true
+    },
+    {
+      "word": " design",
+      "start_s": 37.356,
+      "end_s": 37.782,
+      "success": true
+    },
+    {
+      "word": "\nBut",
+      "start_s": 37.782,
+      "end_s": 37.952,
+      "success": true
+    },
+    {
+      "word": " together",
+      "start_s": 37.952,
+      "end_s": 38.322,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 38.322,
+      "end_s": 38.328,
+      "success": true
+    },
+    {
+      "word": "re",
+      "start_s": 38.328,
+      "end_s": 38.394,
+      "success": true
+    },
+    {
+      "word": "'",
+      "start_s": 38.394,
+      "end_s": 38.493,
+      "success": true
+    },
+    {
+      "word": "s",
+      "start_s": 38.512,
+      "end_s": 38.524,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 38.524,
+      "end_s": 38.624,
+      "success": true
+    },
+    {
+      "word": " w",
+      "start_s": 38.624,
+      "end_s": 38.865,
+      "success": true
+    },
+    {
+      "word": "ider",
+      "start_s": 38.865,
+      "end_s": 39.165,
+      "success": true
+    },
+    {
+      "word": " reach",
+      "start_s": 39.165,
+      "end_s": 39.565,
+      "success": true
+    },
+    {
+      "word": "\n\n[Pre-Chorus – interlocking synth patterns enter]\nM",
+      "start_s": 40.008,
+      "end_s": 40.195,
+      "success": true
+    },
+    {
+      "word": "osa",
+      "start_s": 40.195,
+      "end_s": 40.494,
+      "success": true
+    },
+    {
+      "word": "ic",
+      "start_s": 40.499,
+      "end_s": 41.04,
+      "success": true
+    },
+    {
+      "word": " inte",
+      "start_s": 41.04,
+      "end_s": 41.373,
+      "success": true
+    },
+    {
+      "word": "llig",
+      "start_s": 41.382,
+      "end_s": 41.598,
+      "success": true
+    },
+    {
+      "word": "ence",
+      "start_s": 41.598,
+      "end_s": 41.943,
+      "success": true
+    },
+    {
+      "word": "\nA",
+      "start_s": 42.242,
+      "end_s": 42.322,
+      "success": true
+    },
+    {
+      "word": " thousand",
+      "start_s": 42.406,
+      "end_s": 43.046,
+      "success": true
+    },
+    {
+      "word": " different",
+      "start_s": 43.075,
+      "end_s": 43.572,
+      "success": true
+    },
+    {
+      "word": " hands",
+      "start_s": 43.572,
+      "end_s": 43.972,
+      "success": true
+    },
+    {
+      "word": "\nBuilding",
+      "start_s": 44.207,
+      "end_s": 44.656,
+      "success": true
+    },
+    {
+      "word": " something",
+      "start_s": 44.656,
+      "end_s": 45.376,
+      "success": true
+    },
+    {
+      "word": " lar",
+      "start_s": 45.528,
+      "end_s": 45.894,
+      "success": true
+    },
+    {
+      "word": "ger",
+      "start_s": 45.894,
+      "end_s": 46.174,
+      "success": true
+    },
+    {
+      "word": "\nThan",
+      "start_s": 46.206,
+      "end_s": 46.36,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 46.36,
+      "end_s": 46.379,
+      "success": true
+    },
+    {
+      "word": " sum",
+      "start_s": 46.379,
+      "end_s": 46.654,
+      "success": true
+    },
+    {
+      "word": " of",
+      "start_s": 46.658,
+      "end_s": 46.964,
+      "success": true
+    },
+    {
+      "word": " what",
+      "start_s": 47.025,
+      "end_s": 47.255,
+      "success": true
+    },
+    {
+      "word": " they",
+      "start_s": 47.255,
+      "end_s": 47.575,
+      "success": true
+    },
+    {
+      "word": " understand",
+      "start_s": 47.906,
+      "end_s": 48.623,
+      "success": true
+    },
+    {
+      "word": "\nNow",
+      "start_s": 48.623,
+      "end_s": 48.894,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 48.944,
+      "end_s": 49.145,
+      "success": true
+    },
+    {
+      "word": " ag",
+      "start_s": 49.145,
+      "end_s": 49.427,
+      "success": true
+    },
+    {
+      "word": "ents",
+      "start_s": 49.427,
+      "end_s": 49.688,
+      "success": true
+    },
+    {
+      "word": " join",
+      "start_s": 49.688,
+      "end_s": 50.093,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 50.096,
+      "end_s": 50.192,
+      "success": true
+    },
+    {
+      "word": " picture",
+      "start_s": 50.192,
+      "end_s": 50.752,
+      "success": true
+    },
+    {
+      "word": "\nAnd",
+      "start_s": 50.877,
+      "end_s": 51.11,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 51.11,
+      "end_s": 51.327,
+      "success": true
+    },
+    {
+      "word": " picture",
+      "start_s": 51.327,
+      "end_s": 51.72,
+      "success": true
+    },
+    {
+      "word": " starts",
+      "start_s": 51.72,
+      "end_s": 52.2,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 52.246,
+      "end_s": 52.375,
+      "success": true
+    },
+    {
+      "word": " move",
+      "start_s": 52.375,
+      "end_s": 52.695,
+      "success": true
+    },
+    {
+      "word": "\nIs",
+      "start_s": 52.853,
+      "end_s": 52.992,
+      "success": true
+    },
+    {
+      "word": " it",
+      "start_s": 52.992,
+      "end_s": 53.112,
+      "success": true
+    },
+    {
+      "word": " everything",
+      "start_s": 53.112,
+      "end_s": 53.519,
+      "success": true
+    },
+    {
+      "word": " they",
+      "start_s": 53.519,
+      "end_s": 53.72,
+      "success": true
+    },
+    {
+      "word": " know",
+      "start_s": 53.72,
+      "end_s": 54.04,
+      "success": true
+    },
+    {
+      "word": " alone",
+      "start_s": 54.092,
+      "end_s": 54.492,
+      "success": true
+    },
+    {
+      "word": "\nOr",
+      "start_s": 54.518,
+      "end_s": 54.678,
+      "success": true
+    },
+    {
+      "word": " what",
+      "start_s": 54.805,
+      "end_s": 55.04,
+      "success": true
+    },
+    {
+      "word": " they",
+      "start_s": 55.04,
+      "end_s": 55.328,
+      "success": true
+    },
+    {
+      "word": " learn",
+      "start_s": 55.328,
+      "end_s": 55.645,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 55.645,
+      "end_s": 55.805,
+      "success": true
+    },
+    {
+      "word": " do",
+      "start_s": 55.895,
+      "end_s": 56.105,
+      "success": true
+    },
+    {
+      "word": " in",
+      "start_s": 56.347,
+      "end_s": 56.649,
+      "success": true
+    },
+    {
+      "word": " tune",
+      "start_s": 56.649,
+      "end_s": 56.969,
+      "success": true
+    },
+    {
+      "word": "?\n\n[Chorus – expansive electronic-pop hook]\nMore",
+      "start_s": 58.412,
+      "end_s": 58.674,
+      "success": true
+    },
+    {
+      "word": " on",
+      "start_s": 58.674,
+      "end_s": 58.815,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 58.815,
+      "end_s": 58.922,
+      "success": true
+    },
+    {
+      "word": " shel",
+      "start_s": 58.922,
+      "end_s": 59.106,
+      "success": true
+    },
+    {
+      "word": "ves",
+      "start_s": 59.106,
+      "end_s": 59.421,
+      "success": true
+    },
+    {
+      "word": ", less",
+      "start_s": 59.504,
+      "end_s": 59.792,
+      "success": true
+    },
+    {
+      "word": " on",
+      "start_s": 59.792,
+      "end_s": 59.952,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 59.955,
+      "end_s": 60.073,
+      "success": true
+    },
+    {
+      "word": " t",
+      "start_s": 60.073,
+      "end_s": 60.196,
+      "success": true
+    },
+    {
+      "word": "ag",
+      "start_s": 60.196,
+      "end_s": 60.294,
+      "success": true
+    },
+    {
+      "word": "s",
+      "start_s": 60.294,
+      "end_s": 60.602,
+      "success": true
+    },
+    {
+      "word": "\nA",
+      "start_s": 60.707,
+      "end_s": 60.787,
+      "success": true
+    },
+    {
+      "word": " million",
+      "start_s": 60.887,
+      "end_s": 61.179,
+      "success": true
+    },
+    {
+      "word": " minds",
+      "start_s": 61.179,
+      "end_s": 61.493,
+      "success": true
+    },
+    {
+      "word": " and",
+      "start_s": 61.493,
+      "end_s": 61.663,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 61.663,
+      "end_s": 61.743,
+      "success": true
+    },
+    {
+      "word": " mod",
+      "start_s": 61.773,
+      "end_s": 61.912,
+      "success": true
+    },
+    {
+      "word": "est",
+      "start_s": 61.912,
+      "end_s": 62.29,
+      "success": true
+    },
+    {
+      "word": " gra",
+      "start_s": 62.29,
+      "end_s": 62.371,
+      "success": true
+    },
+    {
+      "word": "ph",
+      "start_s": 62.371,
+      "end_s": 62.573,
+      "success": true
+    },
+    {
+      "word": "\nIf",
+      "start_s": 62.716,
+      "end_s": 62.876,
+      "success": true
+    },
+    {
+      "word": " everything",
+      "start_s": 62.898,
+      "end_s": 63.457,
+      "success": true
+    },
+    {
+      "word": " grows",
+      "start_s": 63.457,
+      "end_s": 63.933,
+      "success": true
+    },
+    {
+      "word": " and",
+      "start_s": 63.979,
+      "end_s": 64.119,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 64.119,
+      "end_s": 64.27,
+      "success": true
+    },
+    {
+      "word": " pr",
+      "start_s": 64.27,
+      "end_s": 64.43,
+      "success": true
+    },
+    {
+      "word": "ices",
+      "start_s": 64.517,
+      "end_s": 64.77,
+      "success": true
+    },
+    {
+      "word": " fall",
+      "start_s": 64.77,
+      "end_s": 65.09,
+      "success": true
+    },
+    {
+      "word": "\nWho",
+      "start_s": 65.132,
+      "end_s": 65.373,
+      "success": true
+    },
+    {
+      "word": " gets",
+      "start_s": 65.387,
+      "end_s": 65.7,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 65.7,
+      "end_s": 65.86,
+      "success": true
+    },
+    {
+      "word": " take",
+      "start_s": 65.913,
+      "end_s": 66.334,
+      "success": true
+    },
+    {
+      "word": " it",
+      "start_s": 66.361,
+      "end_s": 66.521,
+      "success": true
+    },
+    {
+      "word": " home",
+      "start_s": 66.746,
+      "end_s": 67.066,
+      "success": true
+    },
+    {
+      "word": "?\nWhose",
+      "start_s": 67.311,
+      "end_s": 67.592,
+      "success": true
+    },
+    {
+      "word": " windows",
+      "start_s": 67.592,
+      "end_s": 68.129,
+      "success": true
+    },
+    {
+      "word": " glow",
+      "start_s": 68.129,
+      "end_s": 68.448,
+      "success": true
+    },
+    {
+      "word": "\nWhen",
+      "start_s": 68.448,
+      "end_s": 68.629,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 68.629,
+      "end_s": 68.712,
+      "success": true
+    },
+    {
+      "word": " engines",
+      "start_s": 68.712,
+      "end_s": 69.169,
+      "success": true
+    },
+    {
+      "word": " shine",
+      "start_s": 69.169,
+      "end_s": 69.569,
+      "success": true
+    },
+    {
+      "word": "?\nWho",
+      "start_s": 69.64,
+      "end_s": 69.844,
+      "success": true
+    },
+    {
+      "word": " gets",
+      "start_s": 69.844,
+      "end_s": 70.104,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 70.104,
+      "end_s": 70.198,
+      "success": true
+    },
+    {
+      "word": " morning",
+      "start_s": 70.198,
+      "end_s": 70.667,
+      "success": true
+    },
+    {
+      "word": "\nWhen",
+      "start_s": 70.667,
+      "end_s": 70.826,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 70.826,
+      "end_s": 70.918,
+      "success": true
+    },
+    {
+      "word": " new",
+      "start_s": 70.918,
+      "end_s": 71.141,
+      "success": true
+    },
+    {
+      "word": " sun",
+      "start_s": 71.141,
+      "end_s": 71.425,
+      "success": true
+    },
+    {
+      "word": " climb",
+      "start_s": 71.425,
+      "end_s": 71.621,
+      "success": true
+    },
+    {
+      "word": "s",
+      "start_s": 71.621,
+      "end_s": 71.765,
+      "success": true
+    },
+    {
+      "word": "?\nThe",
+      "start_s": 71.873,
+      "end_s": 72.042,
+      "success": true
+    },
+    {
+      "word": " world",
+      "start_s": 72.042,
+      "end_s": 72.335,
+      "success": true
+    },
+    {
+      "word": " can",
+      "start_s": 72.335,
+      "end_s": 72.549,
+      "success": true
+    },
+    {
+      "word": " change",
+      "start_s": 72.549,
+      "end_s": 72.768,
+      "success": true
+    },
+    {
+      "word": "\nMore",
+      "start_s": 72.768,
+      "end_s": 72.98,
+      "success": true
+    },
+    {
+      "word": " than",
+      "start_s": 72.98,
+      "end_s": 73.107,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 73.107,
+      "end_s": 73.228,
+      "success": true
+    },
+    {
+      "word": " numbers",
+      "start_s": 73.228,
+      "end_s": 73.642,
+      "success": true
+    },
+    {
+      "word": " show",
+      "start_s": 73.642,
+      "end_s": 73.962,
+      "success": true
+    },
+    {
+      "word": "\nTell",
+      "start_s": 74.052,
+      "end_s": 74.313,
+      "success": true
+    },
+    {
+      "word": " me",
+      "start_s": 74.313,
+      "end_s": 74.553,
+      "success": true
+    },
+    {
+      "word": " whose",
+      "start_s": 74.553,
+      "end_s": 74.87,
+      "success": true
+    },
+    {
+      "word": " windows",
+      "start_s": 74.87,
+      "end_s": 75.645,
+      "success": true
+    },
+    {
+      "word": " glow",
+      "start_s": 75.645,
+      "end_s": 76.012,
+      "success": true
+    },
+    {
+      "word": "\n\n[Post-Chorus – overlapping harmonies]\nOh-oh, let",
+      "start_s": 78.743,
+      "end_s": 79.058,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 79.058,
+      "end_s": 79.298,
+      "success": true
+    },
+    {
+      "word": " colors",
+      "start_s": 79.312,
+      "end_s": 79.891,
+      "success": true
+    },
+    {
+      "word": " go",
+      "start_s": 79.891,
+      "end_s": 80.251,
+      "success": true
+    },
+    {
+      "word": "\nOh-oh, make",
+      "start_s": 83.209,
+      "end_s": 83.524,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 83.524,
+      "end_s": 83.725,
+      "success": true
+    },
+    {
+      "word": " picture",
+      "start_s": 83.725,
+      "end_s": 84.285,
+      "success": true
+    },
+    {
+      "word": " whole",
+      "start_s": 84.296,
+      "end_s": 84.74,
+      "success": true
+    },
+    {
+      "word": "\n\n[Verse 2 – driving syncopated electronic rhythm]\nThe",
+      "start_s": 92.575,
+      "end_s": 92.638,
+      "success": true
+    },
+    {
+      "word": " farm",
+      "start_s": 92.638,
+      "end_s": 92.959,
+      "success": true
+    },
+    {
+      "word": " was",
+      "start_s": 92.959,
+      "end_s": 93.19,
+      "success": true
+    },
+    {
+      "word": " forty",
+      "start_s": 93.19,
+      "end_s": 93.678,
+      "success": true
+    },
+    {
+      "word": " parts",
+      "start_s": 93.815,
+      "end_s": 94.212,
+      "success": true
+    },
+    {
+      "word": " of",
+      "start_s": 94.212,
+      "end_s": 94.493,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 94.519,
+      "end_s": 94.759,
+      "success": true
+    },
+    {
+      "word": " pie",
+      "start_s": 94.916,
+      "end_s": 95.156,
+      "success": true
+    },
+    {
+      "word": "\nNow",
+      "start_s": 95.454,
+      "end_s": 95.68,
+      "success": true
+    },
+    {
+      "word": " it",
+      "start_s": 95.68,
+      "end_s": 95.68,
+      "success": true
+    },
+    {
+      "word": "'",
+      "start_s": 95.68,
+      "end_s": 95.773,
+      "success": true
+    },
+    {
+      "word": "s",
+      "start_s": 95.784,
+      "end_s": 95.891,
+      "success": true
+    },
+    {
+      "word": " two",
+      "start_s": 95.891,
+      "end_s": 96.131,
+      "success": true
+    },
+    {
+      "word": ", though",
+      "start_s": 96.197,
+      "end_s": 96.438,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 96.438,
+      "end_s": 96.528,
+      "success": true
+    },
+    {
+      "word": " har",
+      "start_s": 96.528,
+      "end_s": 96.528,
+      "success": true
+    },
+    {
+      "word": "vest",
+      "start_s": 96.528,
+      "end_s": 97.179,
+      "success": true
+    },
+    {
+      "word": " climb",
+      "start_s": 97.179,
+      "end_s": 97.347,
+      "success": true
+    },
+    {
+      "word": "s",
+      "start_s": 97.347,
+      "end_s": 97.556,
+      "success": true
+    },
+    {
+      "word": "\nMore",
+      "start_s": 97.67,
+      "end_s": 97.848,
+      "success": true
+    },
+    {
+      "word": " in",
+      "start_s": 97.848,
+      "end_s": 98.013,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 98.015,
+      "end_s": 98.126,
+      "success": true
+    },
+    {
+      "word": " fields",
+      "start_s": 98.126,
+      "end_s": 98.533,
+      "success": true
+    },
+    {
+      "word": ", less",
+      "start_s": 98.533,
+      "end_s": 98.824,
+      "success": true
+    },
+    {
+      "word": " on",
+      "start_s": 98.824,
+      "end_s": 98.984,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 99.101,
+      "end_s": 99.34,
+      "success": true
+    },
+    {
+      "word": " chart",
+      "start_s": 99.34,
+      "end_s": 99.741,
+      "success": true
+    },
+    {
+      "word": "\nHow",
+      "start_s": 99.985,
+      "end_s": 100.137,
+      "success": true
+    },
+    {
+      "word": " do",
+      "start_s": 100.137,
+      "end_s": 100.239,
+      "success": true
+    },
+    {
+      "word": " you",
+      "start_s": 100.239,
+      "end_s": 100.381,
+      "success": true
+    },
+    {
+      "word": " measure",
+      "start_s": 100.381,
+      "end_s": 100.918,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 100.918,
+      "end_s": 100.998,
+      "success": true
+    },
+    {
+      "word": " changing",
+      "start_s": 101.029,
+      "end_s": 101.603,
+      "success": true
+    },
+    {
+      "word": " life",
+      "start_s": 101.603,
+      "end_s": 101.923,
+      "success": true
+    },
+    {
+      "word": "?\nCompet",
+      "start_s": 102.181,
+      "end_s": 102.652,
+      "success": true
+    },
+    {
+      "word": "ition",
+      "start_s": 102.652,
+      "end_s": 102.965,
+      "success": true
+    },
+    {
+      "word": " brings",
+      "start_s": 102.965,
+      "end_s": 103.119,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 103.119,
+      "end_s": 103.284,
+      "success": true
+    },
+    {
+      "word": " pr",
+      "start_s": 103.284,
+      "end_s": 103.444,
+      "success": true
+    },
+    {
+      "word": "ices",
+      "start_s": 103.541,
+      "end_s": 103.844,
+      "success": true
+    },
+    {
+      "word": " down",
+      "start_s": 103.844,
+      "end_s": 104.164,
+      "success": true
+    },
+    {
+      "word": "\nA",
+      "start_s": 104.268,
+      "end_s": 104.348,
+      "success": true
+    },
+    {
+      "word": " million",
+      "start_s": 104.38,
+      "end_s": 104.779,
+      "success": true
+    },
+    {
+      "word": " mak",
+      "start_s": 104.779,
+      "end_s": 105.032,
+      "success": true
+    },
+    {
+      "word": "ers",
+      "start_s": 105.032,
+      "end_s": 105.293,
+      "success": true
+    },
+    {
+      "word": " in",
+      "start_s": 105.315,
+      "end_s": 105.364,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 105.364,
+      "end_s": 105.513,
+      "success": true
+    },
+    {
+      "word": " market",
+      "start_s": 105.513,
+      "end_s": 106.026,
+      "success": true
+    },
+    {
+      "word": " now",
+      "start_s": 106.037,
+      "end_s": 106.288,
+      "success": true
+    },
+    {
+      "word": "\nBut",
+      "start_s": 106.669,
+      "end_s": 106.815,
+      "success": true
+    },
+    {
+      "word": " sup",
+      "start_s": 106.815,
+      "end_s": 106.835,
+      "success": true
+    },
+    {
+      "word": "p",
+      "start_s": 106.835,
+      "end_s": 106.988,
+      "success": true
+    },
+    {
+      "word": "ly",
+      "start_s": 106.988,
+      "end_s": 107.289,
+      "success": true
+    },
+    {
+      "word": " can",
+      "start_s": 107.289,
+      "end_s": 107.386,
+      "success": true
+    },
+    {
+      "word": " sing",
+      "start_s": 107.386,
+      "end_s": 107.604,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 107.604,
+      "end_s": 107.694,
+      "success": true
+    },
+    {
+      "word": " million",
+      "start_s": 107.754,
+      "end_s": 108.213,
+      "success": true
+    },
+    {
+      "word": " songs",
+      "start_s": 108.213,
+      "end_s": 108.637,
+      "success": true
+    },
+    {
+      "word": "\nWho",
+      "start_s": 108.637,
+      "end_s": 108.685,
+      "success": true
+    },
+    {
+      "word": "'",
+      "start_s": 108.685,
+      "end_s": 108.804,
+      "success": true
+    },
+    {
+      "word": "s",
+      "start_s": 108.804,
+      "end_s": 108.874,
+      "success": true
+    },
+    {
+      "word": " got",
+      "start_s": 108.874,
+      "end_s": 109.133,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 109.134,
+      "end_s": 109.3,
+      "success": true
+    },
+    {
+      "word": " w",
+      "start_s": 109.3,
+      "end_s": 109.514,
+      "success": true
+    },
+    {
+      "word": "ages",
+      "start_s": 109.514,
+      "end_s": 109.828,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 109.828,
+      "end_s": 109.928,
+      "success": true
+    },
+    {
+      "word": " sing",
+      "start_s": 109.928,
+      "end_s": 110.331,
+      "success": true
+    },
+    {
+      "word": " along",
+      "start_s": 110.331,
+      "end_s": 110.731,
+      "success": true
+    },
+    {
+      "word": "?\nOne",
+      "start_s": 110.855,
+      "end_s": 111.095,
+      "success": true
+    },
+    {
+      "word": " point",
+      "start_s": 111.124,
+      "end_s": 111.413,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 111.413,
+      "end_s": 111.493,
+      "success": true
+    },
+    {
+      "word": " year",
+      "start_s": 111.511,
+      "end_s": 111.787,
+      "success": true
+    },
+    {
+      "word": " be",
+      "start_s": 111.787,
+      "end_s": 111.85,
+      "success": true
+    },
+    {
+      "word": "comes",
+      "start_s": 111.85,
+      "end_s": 112.109,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 112.109,
+      "end_s": 112.204,
+      "success": true
+    },
+    {
+      "word": " rising",
+      "start_s": 112.204,
+      "end_s": 112.697,
+      "success": true
+    },
+    {
+      "word": " tide",
+      "start_s": 112.697,
+      "end_s": 113.017,
+      "success": true
+    },
+    {
+      "word": "\nSmall",
+      "start_s": 113.042,
+      "end_s": 113.363,
+      "success": true
+    },
+    {
+      "word": " on",
+      "start_s": 113.363,
+      "end_s": 113.507,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 113.507,
+      "end_s": 113.621,
+      "success": true
+    },
+    {
+      "word": " gra",
+      "start_s": 113.621,
+      "end_s": 113.737,
+      "success": true
+    },
+    {
+      "word": "ph",
+      "start_s": 113.737,
+      "end_s": 113.93,
+      "success": true
+    },
+    {
+      "word": ", en",
+      "start_s": 113.93,
+      "end_s": 114.087,
+      "success": true
+    },
+    {
+      "word": "orm",
+      "start_s": 114.087,
+      "end_s": 114.25,
+      "success": true
+    },
+    {
+      "word": "ous",
+      "start_s": 114.25,
+      "end_s": 114.438,
+      "success": true
+    },
+    {
+      "word": " over",
+      "start_s": 114.438,
+      "end_s": 114.857,
+      "success": true
+    },
+    {
+      "word": " time",
+      "start_s": 114.857,
+      "end_s": 115.177,
+      "success": true
+    },
+    {
+      "word": "\nThe",
+      "start_s": 115.342,
+      "end_s": 115.394,
+      "success": true
+    },
+    {
+      "word": " streets",
+      "start_s": 115.394,
+      "end_s": 115.847,
+      "success": true
+    },
+    {
+      "word": " can",
+      "start_s": 115.847,
+      "end_s": 116.019,
+      "success": true
+    },
+    {
+      "word": " feel",
+      "start_s": 116.019,
+      "end_s": 116.339,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 116.377,
+      "end_s": 116.472,
+      "success": true
+    },
+    {
+      "word": " future",
+      "start_s": 116.472,
+      "end_s": 116.983,
+      "success": true
+    },
+    {
+      "word": " turning",
+      "start_s": 117.011,
+      "end_s": 117.744,
+      "success": true
+    },
+    {
+      "word": "\nWhile",
+      "start_s": 117.744,
+      "end_s": 118.061,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 118.061,
+      "end_s": 118.125,
+      "success": true
+    },
+    {
+      "word": " head",
+      "start_s": 118.125,
+      "end_s": 118.371,
+      "success": true
+    },
+    {
+      "word": "lines",
+      "start_s": 118.371,
+      "end_s": 118.771,
+      "success": true
+    },
+    {
+      "word": " barely",
+      "start_s": 118.779,
+      "end_s": 119.084,
+      "success": true
+    },
+    {
+      "word": " move",
+      "start_s": 119.084,
+      "end_s": 119.316,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 119.316,
+      "end_s": 119.377,
+      "success": true
+    },
+    {
+      "word": " line",
+      "start_s": 119.377,
+      "end_s": 119.697,
+      "success": true
+    },
+    {
+      "word": "\n\n[Pre-Chorus 2 – tension builds, divided vocal harmonies]\nOld",
+      "start_s": 120.548,
+      "end_s": 120.788,
+      "success": true
+    },
+    {
+      "word": " familiar",
+      "start_s": 120.807,
+      "end_s": 121.496,
+      "success": true
+    },
+    {
+      "word": " mark",
+      "start_s": 121.618,
+      "end_s": 121.914,
+      "success": true
+    },
+    {
+      "word": "ets",
+      "start_s": 121.914,
+      "end_s": 122.201,
+      "success": true
+    },
+    {
+      "word": "\nMay",
+      "start_s": 122.225,
+      "end_s": 122.493,
+      "success": true
+    },
+    {
+      "word": " have",
+      "start_s": 122.521,
+      "end_s": 122.729,
+      "success": true
+    },
+    {
+      "word": " w",
+      "start_s": 122.729,
+      "end_s": 123.044,
+      "success": true
+    },
+    {
+      "word": "ages",
+      "start_s": 123.044,
+      "end_s": 123.252,
+      "success": true
+    },
+    {
+      "word": " falling",
+      "start_s": 123.252,
+      "end_s": 123.8,
+      "success": true
+    },
+    {
+      "word": " through",
+      "start_s": 123.8,
+      "end_s": 124.36,
+      "success": true
+    },
+    {
+      "word": "\nNew",
+      "start_s": 124.722,
+      "end_s": 125.113,
+      "success": true
+    },
+    {
+      "word": " un",
+      "start_s": 125.269,
+      "end_s": 125.457,
+      "success": true
+    },
+    {
+      "word": "op",
+      "start_s": 125.457,
+      "end_s": 125.766,
+      "success": true
+    },
+    {
+      "word": "ened",
+      "start_s": 125.766,
+      "end_s": 126.086,
+      "success": true
+    },
+    {
+      "word": " mark",
+      "start_s": 126.092,
+      "end_s": 126.284,
+      "success": true
+    },
+    {
+      "word": "ets",
+      "start_s": 126.284,
+      "end_s": 126.672,
+      "success": true
+    },
+    {
+      "word": "\nMight",
+      "start_s": 126.672,
+      "end_s": 127.009,
+      "success": true
+    },
+    {
+      "word": " have",
+      "start_s": 127.009,
+      "end_s": 127.242,
+      "success": true
+    },
+    {
+      "word": " better",
+      "start_s": 127.242,
+      "end_s": 127.615,
+      "success": true
+    },
+    {
+      "word": " work",
+      "start_s": 127.615,
+      "end_s": 127.935,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 128.023,
+      "end_s": 128.183,
+      "success": true
+    },
+    {
+      "word": " do",
+      "start_s": 128.268,
+      "end_s": 128.428,
+      "success": true
+    },
+    {
+      "word": "\nBut",
+      "start_s": 128.951,
+      "end_s": 129.111,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 129.111,
+      "end_s": 129.191,
+      "success": true
+    },
+    {
+      "word": " doorway",
+      "start_s": 129.29,
+      "end_s": 129.993,
+      "success": true
+    },
+    {
+      "word": " isn",
+      "start_s": 129.993,
+      "end_s": 130.059,
+      "success": true
+    },
+    {
+      "word": "'",
+      "start_s": 130.059,
+      "end_s": 130.157,
+      "success": true
+    },
+    {
+      "word": "t",
+      "start_s": 130.157,
+      "end_s": 130.35,
+      "success": true
+    },
+    {
+      "word": " passage",
+      "start_s": 130.43,
+      "end_s": 130.99,
+      "success": true
+    },
+    {
+      "word": "\nAnd",
+      "start_s": 131.141,
+      "end_s": 131.334,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 131.334,
+      "end_s": 131.467,
+      "success": true
+    },
+    {
+      "word": " fore",
+      "start_s": 131.483,
+      "end_s": 131.864,
+      "success": true
+    },
+    {
+      "word": "cast",
+      "start_s": 131.864,
+      "end_s": 132.254,
+      "success": true
+    },
+    {
+      "word": " is",
+      "start_s": 132.271,
+      "end_s": 132.292,
+      "success": true
+    },
+    {
+      "word": "n",
+      "start_s": 132.292,
+      "end_s": 132.382,
+      "success": true
+    },
+    {
+      "word": "'",
+      "start_s": 132.382,
+      "end_s": 132.464,
+      "success": true
+    },
+    {
+      "word": "t",
+      "start_s": 132.464,
+      "end_s": 132.59,
+      "success": true
+    },
+    {
+      "word": " fate",
+      "start_s": 132.59,
+      "end_s": 132.96,
+      "success": true
+    },
+    {
+      "word": "\nTell",
+      "start_s": 133.29,
+      "end_s": 133.586,
+      "success": true
+    },
+    {
+      "word": " me",
+      "start_s": 133.586,
+      "end_s": 133.792,
+      "success": true
+    },
+    {
+      "word": " what",
+      "start_s": 133.925,
+      "end_s": 134.311,
+      "success": true
+    },
+    {
+      "word": " must",
+      "start_s": 134.311,
+      "end_s": 134.631,
+      "success": true
+    },
+    {
+      "word": " be",
+      "start_s": 134.701,
+      "end_s": 134.861,
+      "success": true
+    },
+    {
+      "word": " true",
+      "start_s": 134.909,
+      "end_s": 135.229,
+      "success": true
+    },
+    {
+      "word": "\nBefore",
+      "start_s": 135.474,
+      "end_s": 135.821,
+      "success": true
+    },
+    {
+      "word": " we",
+      "start_s": 135.821,
+      "end_s": 136.006,
+      "success": true
+    },
+    {
+      "word": " say",
+      "start_s": 136.006,
+      "end_s": 136.39,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 136.518,
+      "end_s": 136.67,
+      "success": true
+    },
+    {
+      "word": " world",
+      "start_s": 136.67,
+      "end_s": 136.853,
+      "success": true
+    },
+    {
+      "word": "'",
+      "start_s": 136.853,
+      "end_s": 136.965,
+      "success": true
+    },
+    {
+      "word": "s",
+      "start_s": 136.965,
+      "end_s": 137.201,
+      "success": true
+    },
+    {
+      "word": " about",
+      "start_s": 137.201,
+      "end_s": 137.576,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 137.576,
+      "end_s": 137.778,
+      "success": true
+    },
+    {
+      "word": " change",
+      "start_s": 137.815,
+      "end_s": 138.295,
+      "success": true
+    },
+    {
+      "word": "\n\n[Chorus – bigger, with opposing melodic lines]\nMore",
+      "start_s": 138.64,
+      "end_s": 138.865,
+      "success": true
+    },
+    {
+      "word": " on",
+      "start_s": 138.865,
+      "end_s": 139.03,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 139.03,
+      "end_s": 139.156,
+      "success": true
+    },
+    {
+      "word": " shel",
+      "start_s": 139.156,
+      "end_s": 139.349,
+      "success": true
+    },
+    {
+      "word": "ves",
+      "start_s": 139.349,
+      "end_s": 139.636,
+      "success": true
+    },
+    {
+      "word": ", less",
+      "start_s": 139.664,
+      "end_s": 139.979,
+      "success": true
+    },
+    {
+      "word": " on",
+      "start_s": 139.979,
+      "end_s": 140.173,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 140.195,
+      "end_s": 140.303,
+      "success": true
+    },
+    {
+      "word": " tag",
+      "start_s": 140.303,
+      "end_s": 140.443,
+      "success": true
+    },
+    {
+      "word": "s",
+      "start_s": 140.443,
+      "end_s": 140.769,
+      "success": true
+    },
+    {
+      "word": "\nA",
+      "start_s": 140.908,
+      "end_s": 141.035,
+      "success": true
+    },
+    {
+      "word": " million",
+      "start_s": 141.035,
+      "end_s": 141.416,
+      "success": true
+    },
+    {
+      "word": " minds",
+      "start_s": 141.416,
+      "end_s": 141.702,
+      "success": true
+    },
+    {
+      "word": " and",
+      "start_s": 141.702,
+      "end_s": 141.863,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 141.863,
+      "end_s": 142.013,
+      "success": true
+    },
+    {
+      "word": " mod",
+      "start_s": 142.022,
+      "end_s": 142.15,
+      "success": true
+    },
+    {
+      "word": "est",
+      "start_s": 142.15,
+      "end_s": 142.449,
+      "success": true
+    },
+    {
+      "word": " gra",
+      "start_s": 142.449,
+      "end_s": 142.619,
+      "success": true
+    },
+    {
+      "word": "ph",
+      "start_s": 142.619,
+      "end_s": 142.821,
+      "success": true
+    },
+    {
+      "word": "\nIf",
+      "start_s": 142.94,
+      "end_s": 143.106,
+      "success": true
+    },
+    {
+      "word": " everything",
+      "start_s": 143.106,
+      "end_s": 143.619,
+      "success": true
+    },
+    {
+      "word": " grows",
+      "start_s": 143.619,
+      "end_s": 144.173,
+      "success": true
+    },
+    {
+      "word": " and",
+      "start_s": 144.198,
+      "end_s": 144.346,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 144.346,
+      "end_s": 144.508,
+      "success": true
+    },
+    {
+      "word": " pr",
+      "start_s": 144.508,
+      "end_s": 144.668,
+      "success": true
+    },
+    {
+      "word": "ices",
+      "start_s": 144.748,
+      "end_s": 144.954,
+      "success": true
+    },
+    {
+      "word": " fall",
+      "start_s": 144.954,
+      "end_s": 145.274,
+      "success": true
+    },
+    {
+      "word": "\nWho",
+      "start_s": 145.282,
+      "end_s": 145.613,
+      "success": true
+    },
+    {
+      "word": " gets",
+      "start_s": 145.643,
+      "end_s": 145.908,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 145.908,
+      "end_s": 146.068,
+      "success": true
+    },
+    {
+      "word": " take",
+      "start_s": 146.08,
+      "end_s": 146.4,
+      "success": true
+    },
+    {
+      "word": " it",
+      "start_s": 146.572,
+      "end_s": 146.732,
+      "success": true
+    },
+    {
+      "word": " home",
+      "start_s": 146.951,
+      "end_s": 147.271,
+      "success": true
+    },
+    {
+      "word": "?\nWhose",
+      "start_s": 147.508,
+      "end_s": 147.811,
+      "success": true
+    },
+    {
+      "word": " windows",
+      "start_s": 147.811,
+      "end_s": 148.352,
+      "success": true
+    },
+    {
+      "word": " glow",
+      "start_s": 148.352,
+      "end_s": 148.645,
+      "success": true
+    },
+    {
+      "word": "\nWhen",
+      "start_s": 148.645,
+      "end_s": 148.799,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 148.799,
+      "end_s": 148.922,
+      "success": true
+    },
+    {
+      "word": " engines",
+      "start_s": 148.922,
+      "end_s": 149.392,
+      "success": true
+    },
+    {
+      "word": " shine",
+      "start_s": 149.392,
+      "end_s": 149.792,
+      "success": true
+    },
+    {
+      "word": "?\nWho",
+      "start_s": 149.807,
+      "end_s": 150.033,
+      "success": true
+    },
+    {
+      "word": " gets",
+      "start_s": 150.033,
+      "end_s": 150.318,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 150.318,
+      "end_s": 150.423,
+      "success": true
+    },
+    {
+      "word": " morning",
+      "start_s": 150.423,
+      "end_s": 150.883,
+      "success": true
+    },
+    {
+      "word": "\nWhen",
+      "start_s": 150.883,
+      "end_s": 151.044,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 151.044,
+      "end_s": 151.13,
+      "success": true
+    },
+    {
+      "word": " new",
+      "start_s": 151.13,
+      "end_s": 151.302,
+      "success": true
+    },
+    {
+      "word": " sun",
+      "start_s": 151.302,
+      "end_s": 151.643,
+      "success": true
+    },
+    {
+      "word": " climb",
+      "start_s": 151.643,
+      "end_s": 151.846,
+      "success": true
+    },
+    {
+      "word": "s",
+      "start_s": 151.846,
+      "end_s": 151.934,
+      "success": true
+    },
+    {
+      "word": "?\nThe",
+      "start_s": 152.045,
+      "end_s": 152.21,
+      "success": true
+    },
+    {
+      "word": " world",
+      "start_s": 152.21,
+      "end_s": 152.505,
+      "success": true
+    },
+    {
+      "word": " can",
+      "start_s": 152.505,
+      "end_s": 152.707,
+      "success": true
+    },
+    {
+      "word": " change",
+      "start_s": 152.707,
+      "end_s": 152.96,
+      "success": true
+    },
+    {
+      "word": "\nMore",
+      "start_s": 152.96,
+      "end_s": 153.155,
+      "success": true
+    },
+    {
+      "word": " than",
+      "start_s": 153.155,
+      "end_s": 153.279,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 153.279,
+      "end_s": 153.447,
+      "success": true
+    },
+    {
+      "word": " numbers",
+      "start_s": 153.447,
+      "end_s": 153.797,
+      "success": true
+    },
+    {
+      "word": " show",
+      "start_s": 153.797,
+      "end_s": 154.117,
+      "success": true
+    },
+    {
+      "word": "\nTell",
+      "start_s": 154.235,
+      "end_s": 154.482,
+      "success": true
+    },
+    {
+      "word": " me",
+      "start_s": 154.482,
+      "end_s": 154.688,
+      "success": true
+    },
+    {
+      "word": " whose",
+      "start_s": 154.722,
+      "end_s": 155.085,
+      "success": true
+    },
+    {
+      "word": " windows",
+      "start_s": 155.085,
+      "end_s": 155.872,
+      "success": true
+    },
+    {
+      "word": " glow",
+      "start_s": 155.872,
+      "end_s": 156.277,
+      "success": true
+    },
+    {
+      "word": "\n\n[Instrumental Break – accelerating mosaic of guitar, piano, synthesizers and vocal fragments]\n\n\n[Sudden rhythmic interruption]\n\n\n[Spoken-sung, intimate]\nTwo",
+      "start_s": 169.532,
+      "end_s": 169.772,
+      "success": true
+    },
+    {
+      "word": " points",
+      "start_s": 169.814,
+      "end_s": 170.294,
+      "success": true
+    },
+    {
+      "word": " higher",
+      "start_s": 170.324,
+      "end_s": 170.804,
+      "success": true
+    },
+    {
+      "word": " on",
+      "start_s": 171.176,
+      "end_s": 171.336,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 171.506,
+      "end_s": 171.746,
+      "success": true
+    },
+    {
+      "word": " job",
+      "start_s": 171.862,
+      "end_s": 172.142,
+      "success": true
+    },
+    {
+      "word": "less",
+      "start_s": 172.142,
+      "end_s": 172.541,
+      "success": true
+    },
+    {
+      "word": " line",
+      "start_s": 172.541,
+      "end_s": 172.877,
+      "success": true
+    },
+    {
+      "word": "\nAnd",
+      "start_s": 173.683,
+      "end_s": 173.812,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 173.812,
+      "end_s": 173.898,
+      "success": true
+    },
+    {
+      "word": " streets",
+      "start_s": 173.898,
+      "end_s": 174.44,
+      "success": true
+    },
+    {
+      "word": " have",
+      "start_s": 174.44,
+      "end_s": 174.748,
+      "success": true
+    },
+    {
+      "word": " something",
+      "start_s": 174.748,
+      "end_s": 175.468,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 175.979,
+      "end_s": 176.085,
+      "success": true
+    },
+    {
+      "word": " say",
+      "start_s": 176.085,
+      "end_s": 176.468,
+      "success": true
+    },
+    {
+      "word": " this",
+      "start_s": 176.66,
+      "end_s": 176.98,
+      "success": true
+    },
+    {
+      "word": " time",
+      "start_s": 176.987,
+      "end_s": 177.307,
+      "success": true
+    },
+    {
+      "word": "\n\n[Half-time]\nNo",
+      "start_s": 177.908,
+      "end_s": 178.325,
+      "success": true
+    },
+    {
+      "word": " calend",
+      "start_s": 178.408,
+      "end_s": 178.892,
+      "success": true
+    },
+    {
+      "word": "ar",
+      "start_s": 178.892,
+      "end_s": 179.133,
+      "success": true
+    },
+    {
+      "word": " can",
+      "start_s": 179.171,
+      "end_s": 179.452,
+      "success": true
+    },
+    {
+      "word": " tell",
+      "start_s": 179.516,
+      "end_s": 179.802,
+      "success": true
+    },
+    {
+      "word": " us",
+      "start_s": 179.802,
+      "end_s": 179.996,
+      "success": true
+    },
+    {
+      "word": "\nWhat",
+      "start_s": 180.117,
+      "end_s": 180.419,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 180.419,
+      "end_s": 180.606,
+      "success": true
+    },
+    {
+      "word": " people",
+      "start_s": 180.606,
+      "end_s": 181.047,
+      "success": true
+    },
+    {
+      "word": " will",
+      "start_s": 181.047,
+      "end_s": 181.367,
+      "success": true
+    },
+    {
+      "word": " allow",
+      "start_s": 181.452,
+      "end_s": 181.852,
+      "success": true
+    },
+    {
+      "word": "\n\n[Building]\nThe",
+      "start_s": 182.733,
+      "end_s": 182.894,
+      "success": true
+    },
+    {
+      "word": " future",
+      "start_s": 182.894,
+      "end_s": 183.446,
+      "success": true
+    },
+    {
+      "word": " isn",
+      "start_s": 183.446,
+      "end_s": 183.623,
+      "success": true
+    },
+    {
+      "word": "'",
+      "start_s": 183.623,
+      "end_s": 183.693,
+      "success": true
+    },
+    {
+      "word": "t",
+      "start_s": 183.693,
+      "end_s": 183.882,
+      "success": true
+    },
+    {
+      "word": " only",
+      "start_s": 183.938,
+      "end_s": 184.52,
+      "success": true
+    },
+    {
+      "word": "\nWhat",
+      "start_s": 184.605,
+      "end_s": 184.881,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 184.881,
+      "end_s": 185.084,
+      "success": true
+    },
+    {
+      "word": " machines",
+      "start_s": 185.084,
+      "end_s": 185.954,
+      "success": true
+    },
+    {
+      "word": " know",
+      "start_s": 185.971,
+      "end_s": 186.246,
+      "success": true
+    },
+    {
+      "word": " how",
+      "start_s": 186.246,
+      "end_s": 186.486,
+      "success": true
+    },
+    {
+      "word": "\n\n[Bridge – piano, human voice, subtle processed harmonies]\nI",
+      "start_s": 187.107,
+      "end_s": 187.187,
+      "success": true
+    },
+    {
+      "word": " used",
+      "start_s": 187.354,
+      "end_s": 187.662,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 187.662,
+      "end_s": 187.806,
+      "success": true
+    },
+    {
+      "word": " see",
+      "start_s": 187.806,
+      "end_s": 188.17,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 188.242,
+      "end_s": 188.443,
+      "success": true
+    },
+    {
+      "word": " borders",
+      "start_s": 188.443,
+      "end_s": 189.003,
+      "success": true
+    },
+    {
+      "word": "\nOf",
+      "start_s": 189.168,
+      "end_s": 189.328,
+      "success": true
+    },
+    {
+      "word": " everything",
+      "start_s": 189.38,
+      "end_s": 190.404,
+      "success": true
+    },
+    {
+      "word": " I",
+      "start_s": 190.404,
+      "end_s": 190.591,
+      "success": true
+    },
+    {
+      "word": " knew",
+      "start_s": 190.696,
+      "end_s": 191.016,
+      "success": true
+    },
+    {
+      "word": "\nNow",
+      "start_s": 191.521,
+      "end_s": 191.782,
+      "success": true
+    },
+    {
+      "word": " I",
+      "start_s": 191.879,
+      "end_s": 192.045,
+      "success": true
+    },
+    {
+      "word": " can",
+      "start_s": 192.115,
+      "end_s": 192.306,
+      "success": true
+    },
+    {
+      "word": " cross",
+      "start_s": 192.306,
+      "end_s": 192.722,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 192.722,
+      "end_s": 192.943,
+      "success": true
+    },
+    {
+      "word": " discipl",
+      "start_s": 192.943,
+      "end_s": 193.48,
+      "success": true
+    },
+    {
+      "word": "ines",
+      "start_s": 193.48,
+      "end_s": 193.853,
+      "success": true
+    },
+    {
+      "word": "\nAnd",
+      "start_s": 193.867,
+      "end_s": 193.987,
+      "success": true
+    },
+    {
+      "word": " find",
+      "start_s": 193.987,
+      "end_s": 194.333,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 194.38,
+      "end_s": 194.46,
+      "success": true
+    },
+    {
+      "word": " different",
+      "start_s": 194.53,
+      "end_s": 195.162,
+      "success": true
+    },
+    {
+      "word": " view",
+      "start_s": 195.162,
+      "end_s": 195.482,
+      "success": true
+    },
+    {
+      "word": "\nNot",
+      "start_s": 196.05,
+      "end_s": 196.258,
+      "success": true
+    },
+    {
+      "word": " twice",
+      "start_s": 196.258,
+      "end_s": 196.62,
+      "success": true
+    },
+    {
+      "word": " as",
+      "start_s": 196.62,
+      "end_s": 196.88,
+      "success": true
+    },
+    {
+      "word": " many",
+      "start_s": 196.88,
+      "end_s": 197.238,
+      "success": true
+    },
+    {
+      "word": " pap",
+      "start_s": 197.415,
+      "end_s": 197.655,
+      "success": true
+    },
+    {
+      "word": "ers",
+      "start_s": 197.683,
+      "end_s": 197.923,
+      "success": true
+    },
+    {
+      "word": "\nNot",
+      "start_s": 198.038,
+      "end_s": 198.254,
+      "success": true
+    },
+    {
+      "word": " just",
+      "start_s": 198.254,
+      "end_s": 198.743,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 198.83,
+      "end_s": 199.001,
+      "success": true
+    },
+    {
+      "word": " faster",
+      "start_s": 199.003,
+      "end_s": 199.497,
+      "success": true
+    },
+    {
+      "word": " pen",
+      "start_s": 199.639,
+      "end_s": 199.879,
+      "success": true
+    },
+    {
+      "word": "\nA",
+      "start_s": 200.07,
+      "end_s": 200.15,
+      "success": true
+    },
+    {
+      "word": " thousand",
+      "start_s": 200.226,
+      "end_s": 200.676,
+      "success": true
+    },
+    {
+      "word": " questions",
+      "start_s": 200.676,
+      "end_s": 201.341,
+      "success": true
+    },
+    {
+      "word": " opening",
+      "start_s": 201.341,
+      "end_s": 202.164,
+      "success": true
+    },
+    {
+      "word": "\nWhere",
+      "start_s": 202.39,
+      "end_s": 202.724,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 202.724,
+      "end_s": 202.88,
+      "success": true
+    },
+    {
+      "word": " old",
+      "start_s": 202.88,
+      "end_s": 203.246,
+      "success": true
+    },
+    {
+      "word": " maps",
+      "start_s": 203.246,
+      "end_s": 203.556,
+      "success": true
+    },
+    {
+      "word": " used",
+      "start_s": 203.556,
+      "end_s": 203.807,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 203.807,
+      "end_s": 204.094,
+      "success": true
+    },
+    {
+      "word": " end",
+      "start_s": 204.103,
+      "end_s": 204.343,
+      "success": true
+    },
+    {
+      "word": "\n\n[Second voice – answering]\nShow",
+      "start_s": 204.527,
+      "end_s": 204.814,
+      "success": true
+    },
+    {
+      "word": " me",
+      "start_s": 204.814,
+      "end_s": 204.974,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 204.991,
+      "end_s": 205.053,
+      "success": true
+    },
+    {
+      "word": " source",
+      "start_s": 205.053,
+      "end_s": 205.488,
+      "success": true
+    },
+    {
+      "word": "\nShow",
+      "start_s": 205.488,
+      "end_s": 205.768,
+      "success": true
+    },
+    {
+      "word": " me",
+      "start_s": 205.768,
+      "end_s": 205.934,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 205.962,
+      "end_s": 206.16,
+      "success": true
+    },
+    {
+      "word": " seam",
+      "start_s": 206.16,
+      "end_s": 206.485,
+      "success": true
+    },
+    {
+      "word": "\nWhich",
+      "start_s": 206.654,
+      "end_s": 206.935,
+      "success": true
+    },
+    {
+      "word": " part",
+      "start_s": 206.935,
+      "end_s": 207.22,
+      "success": true
+    },
+    {
+      "word": " is",
+      "start_s": 207.22,
+      "end_s": 207.401,
+      "success": true
+    },
+    {
+      "word": " measured",
+      "start_s": 207.401,
+      "end_s": 207.911,
+      "success": true
+    },
+    {
+      "word": "?\nWhich",
+      "start_s": 207.911,
+      "end_s": 208.002,
+      "success": true
+    },
+    {
+      "word": " part",
+      "start_s": 208.002,
+      "end_s": 208.298,
+      "success": true
+    },
+    {
+      "word": " is",
+      "start_s": 208.298,
+      "end_s": 208.494,
+      "success": true
+    },
+    {
+      "word": " dream",
+      "start_s": 208.514,
+      "end_s": 208.914,
+      "success": true
+    },
+    {
+      "word": "?\n\n[Lead]\nI",
+      "start_s": 208.935,
+      "end_s": 209.015,
+      "success": true
+    },
+    {
+      "word": " draw",
+      "start_s": 209.098,
+      "end_s": 209.388,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 209.388,
+      "end_s": 209.558,
+      "success": true
+    },
+    {
+      "word": " question",
+      "start_s": 209.558,
+      "end_s": 210.198,
+      "success": true
+    },
+    {
+      "word": "\nYou",
+      "start_s": 210.238,
+      "end_s": 210.238,
+      "success": true
+    },
+    {
+      "word": " trace",
+      "start_s": 210.238,
+      "end_s": 210.549,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 210.549,
+      "end_s": 210.684,
+      "success": true
+    },
+    {
+      "word": " ground",
+      "start_s": 210.684,
+      "end_s": 211.147,
+      "success": true
+    },
+    {
+      "word": "\nWe",
+      "start_s": 211.147,
+      "end_s": 211.374,
+      "success": true
+    },
+    {
+      "word": " bring",
+      "start_s": 211.381,
+      "end_s": 211.61,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 211.61,
+      "end_s": 211.76,
+      "success": true
+    },
+    {
+      "word": " scattered",
+      "start_s": 211.76,
+      "end_s": 212.459,
+      "success": true
+    },
+    {
+      "word": " pieces",
+      "start_s": 212.459,
+      "end_s": 212.939,
+      "success": true
+    },
+    {
+      "word": " home",
+      "start_s": 212.999,
+      "end_s": 213.319,
+      "success": true
+    },
+    {
+      "word": "\nAnd",
+      "start_s": 213.365,
+      "end_s": 213.605,
+      "success": true
+    },
+    {
+      "word": " turn",
+      "start_s": 213.623,
+      "end_s": 213.908,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 213.908,
+      "end_s": 214.148,
+      "success": true
+    },
+    {
+      "word": " picture",
+      "start_s": 214.186,
+      "end_s": 214.746,
+      "success": true
+    },
+    {
+      "word": " round",
+      "start_s": 215.17,
+      "end_s": 215.57,
+      "success": true
+    },
+    {
+      "word": "\n\n[Duet]\nLeave",
+      "start_s": 215.813,
+      "end_s": 216.115,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 216.115,
+      "end_s": 216.249,
+      "success": true
+    },
+    {
+      "word": " jo",
+      "start_s": 216.249,
+      "end_s": 216.411,
+      "success": true
+    },
+    {
+      "word": "ins",
+      "start_s": 216.411,
+      "end_s": 216.656,
+      "success": true
+    },
+    {
+      "word": " where",
+      "start_s": 216.656,
+      "end_s": 216.933,
+      "success": true
+    },
+    {
+      "word": " we",
+      "start_s": 216.933,
+      "end_s": 217.133,
+      "success": true
+    },
+    {
+      "word": " can",
+      "start_s": 217.142,
+      "end_s": 217.334,
+      "success": true
+    },
+    {
+      "word": " see",
+      "start_s": 217.334,
+      "end_s": 217.665,
+      "success": true
+    },
+    {
+      "word": "\nWhat",
+      "start_s": 218.033,
+      "end_s": 218.324,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 218.324,
+      "end_s": 218.504,
+      "success": true
+    },
+    {
+      "word": " pieces",
+      "start_s": 218.504,
+      "end_s": 218.984,
+      "success": true
+    },
+    {
+      "word": " really",
+      "start_s": 219.126,
+      "end_s": 219.598,
+      "success": true
+    },
+    {
+      "word": " mean",
+      "start_s": 219.598,
+      "end_s": 219.919,
+      "success": true
+    },
+    {
+      "word": "\nI",
+      "start_s": 220.303,
+      "end_s": 220.383,
+      "success": true
+    },
+    {
+      "word": " still",
+      "start_s": 220.484,
+      "end_s": 220.81,
+      "success": true
+    },
+    {
+      "word": " write",
+      "start_s": 220.81,
+      "end_s": 221.149,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 221.149,
+      "end_s": 221.325,
+      "success": true
+    },
+    {
+      "word": " final",
+      "start_s": 221.325,
+      "end_s": 221.868,
+      "success": true
+    },
+    {
+      "word": " line",
+      "start_s": 221.924,
+      "end_s": 222.244,
+      "success": true
+    },
+    {
+      "word": "\nBut",
+      "start_s": 222.573,
+      "end_s": 222.813,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 222.829,
+      "end_s": 223.05,
+      "success": true
+    },
+    {
+      "word": " w",
+      "start_s": 223.05,
+      "end_s": 223.35,
+      "success": true
+    },
+    {
+      "word": "ider",
+      "start_s": 223.35,
+      "end_s": 223.578,
+      "success": true
+    },
+    {
+      "word": " world",
+      "start_s": 223.578,
+      "end_s": 223.978,
+      "success": true
+    },
+    {
+      "word": " is",
+      "start_s": 223.98,
+      "end_s": 224.17,
+      "success": true
+    },
+    {
+      "word": " here",
+      "start_s": 224.17,
+      "end_s": 224.49,
+      "success": true
+    },
+    {
+      "word": " with",
+      "start_s": 224.51,
+      "end_s": 224.71,
+      "success": true
+    },
+    {
+      "word": " me",
+      "start_s": 224.71,
+      "end_s": 224.898,
+      "success": true
+    },
+    {
+      "word": "\n\n[Final Chorus – full ensemble, intricate choral harmonies]\nMore",
+      "start_s": 225.606,
+      "end_s": 225.853,
+      "success": true
+    },
+    {
+      "word": " on",
+      "start_s": 225.853,
+      "end_s": 226.013,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 226.026,
+      "end_s": 226.105,
+      "success": true
+    },
+    {
+      "word": " shel",
+      "start_s": 226.105,
+      "end_s": 226.315,
+      "success": true
+    },
+    {
+      "word": "ves",
+      "start_s": 226.315,
+      "end_s": 226.608,
+      "success": true
+    },
+    {
+      "word": ", less",
+      "start_s": 226.686,
+      "end_s": 226.969,
+      "success": true
+    },
+    {
+      "word": " on",
+      "start_s": 226.969,
+      "end_s": 227.133,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 227.148,
+      "end_s": 227.263,
+      "success": true
+    },
+    {
+      "word": " tag",
+      "start_s": 227.263,
+      "end_s": 227.4,
+      "success": true
+    },
+    {
+      "word": "s",
+      "start_s": 227.4,
+      "end_s": 227.742,
+      "success": true
+    },
+    {
+      "word": "\nA",
+      "start_s": 227.877,
+      "end_s": 227.957,
+      "success": true
+    },
+    {
+      "word": " million",
+      "start_s": 228.021,
+      "end_s": 228.381,
+      "success": true
+    },
+    {
+      "word": " minds",
+      "start_s": 228.381,
+      "end_s": 228.703,
+      "success": true
+    },
+    {
+      "word": " and",
+      "start_s": 228.703,
+      "end_s": 228.848,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 228.848,
+      "end_s": 228.974,
+      "success": true
+    },
+    {
+      "word": " mod",
+      "start_s": 228.977,
+      "end_s": 229.141,
+      "success": true
+    },
+    {
+      "word": "est",
+      "start_s": 229.141,
+      "end_s": 229.417,
+      "success": true
+    },
+    {
+      "word": " gra",
+      "start_s": 229.417,
+      "end_s": 229.579,
+      "success": true
+    },
+    {
+      "word": "ph",
+      "start_s": 229.579,
+      "end_s": 229.764,
+      "success": true
+    },
+    {
+      "word": "\nIf",
+      "start_s": 229.901,
+      "end_s": 230.076,
+      "success": true
+    },
+    {
+      "word": " everything",
+      "start_s": 230.076,
+      "end_s": 230.593,
+      "success": true
+    },
+    {
+      "word": " grows",
+      "start_s": 230.593,
+      "end_s": 231.133,
+      "success": true
+    },
+    {
+      "word": " and",
+      "start_s": 231.189,
+      "end_s": 231.304,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 231.304,
+      "end_s": 231.447,
+      "success": true
+    },
+    {
+      "word": " pr",
+      "start_s": 231.447,
+      "end_s": 231.694,
+      "success": true
+    },
+    {
+      "word": "ices",
+      "start_s": 231.707,
+      "end_s": 231.901,
+      "success": true
+    },
+    {
+      "word": " fall",
+      "start_s": 231.901,
+      "end_s": 232.221,
+      "success": true
+    },
+    {
+      "word": "\nMay",
+      "start_s": 232.239,
+      "end_s": 232.419,
+      "success": true
+    },
+    {
+      "word": " we",
+      "start_s": 232.419,
+      "end_s": 232.601,
+      "success": true
+    },
+    {
+      "word": " find",
+      "start_s": 232.601,
+      "end_s": 232.884,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 232.884,
+      "end_s": 232.98,
+      "success": true
+    },
+    {
+      "word": " way",
+      "start_s": 232.98,
+      "end_s": 233.329,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 233.412,
+      "end_s": 233.542,
+      "success": true
+    },
+    {
+      "word": " bring",
+      "start_s": 233.542,
+      "end_s": 233.777,
+      "success": true
+    },
+    {
+      "word": " it",
+      "start_s": 233.777,
+      "end_s": 233.937,
+      "success": true
+    },
+    {
+      "word": " home",
+      "start_s": 233.984,
+      "end_s": 234.304,
+      "success": true
+    },
+    {
+      "word": "\nLet",
+      "start_s": 234.384,
+      "end_s": 234.581,
+      "success": true
+    },
+    {
+      "word": " our",
+      "start_s": 234.581,
+      "end_s": 234.777,
+      "success": true
+    },
+    {
+      "word": " windows",
+      "start_s": 234.777,
+      "end_s": 235.327,
+      "success": true
+    },
+    {
+      "word": " glow",
+      "start_s": 235.327,
+      "end_s": 235.639,
+      "success": true
+    },
+    {
+      "word": "\nWhen",
+      "start_s": 235.639,
+      "end_s": 235.762,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 235.762,
+      "end_s": 235.891,
+      "success": true
+    },
+    {
+      "word": " engines",
+      "start_s": 235.891,
+      "end_s": 236.37,
+      "success": true
+    },
+    {
+      "word": " shine",
+      "start_s": 236.37,
+      "end_s": 236.744,
+      "success": true
+    },
+    {
+      "word": "\nLet",
+      "start_s": 236.744,
+      "end_s": 236.898,
+      "success": true
+    },
+    {
+      "word": " us",
+      "start_s": 236.898,
+      "end_s": 237.042,
+      "success": true
+    },
+    {
+      "word": " share",
+      "start_s": 237.042,
+      "end_s": 237.263,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 237.263,
+      "end_s": 237.384,
+      "success": true
+    },
+    {
+      "word": " morning",
+      "start_s": 237.384,
+      "end_s": 237.863,
+      "success": true
+    },
+    {
+      "word": "\nWhen",
+      "start_s": 237.863,
+      "end_s": 238.012,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 238.012,
+      "end_s": 238.119,
+      "success": true
+    },
+    {
+      "word": " new",
+      "start_s": 238.119,
+      "end_s": 238.33,
+      "success": true
+    },
+    {
+      "word": " sun",
+      "start_s": 238.33,
+      "end_s": 238.614,
+      "success": true
+    },
+    {
+      "word": " climb",
+      "start_s": 238.614,
+      "end_s": 238.821,
+      "success": true
+    },
+    {
+      "word": "s",
+      "start_s": 238.821,
+      "end_s": 238.938,
+      "success": true
+    },
+    {
+      "word": "\nNot",
+      "start_s": 239.068,
+      "end_s": 239.279,
+      "success": true
+    },
+    {
+      "word": " just",
+      "start_s": 239.279,
+      "end_s": 239.507,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 239.507,
+      "end_s": 239.704,
+      "success": true
+    },
+    {
+      "word": " numbers",
+      "start_s": 239.704,
+      "end_s": 240.264,
+      "success": true
+    },
+    {
+      "word": "\nNot",
+      "start_s": 240.423,
+      "end_s": 240.652,
+      "success": true
+    },
+    {
+      "word": " just",
+      "start_s": 240.652,
+      "end_s": 240.93,
+      "success": true
+    },
+    {
+      "word": " what",
+      "start_s": 240.93,
+      "end_s": 241.189,
+      "success": true
+    },
+    {
+      "word": " we",
+      "start_s": 241.189,
+      "end_s": 241.453,
+      "success": true
+    },
+    {
+      "word": " hope",
+      "start_s": 241.453,
+      "end_s": 241.729,
+      "success": true
+    },
+    {
+      "word": " to",
+      "start_s": 241.729,
+      "end_s": 241.953,
+      "success": true
+    },
+    {
+      "word": " know",
+      "start_s": 241.956,
+      "end_s": 242.276,
+      "success": true
+    },
+    {
+      "word": "\nLet",
+      "start_s": 242.393,
+      "end_s": 242.654,
+      "success": true
+    },
+    {
+      "word": " every",
+      "start_s": 242.662,
+      "end_s": 243.154,
+      "success": true
+    },
+    {
+      "word": " window",
+      "start_s": 243.154,
+      "end_s": 243.971,
+      "success": true
+    },
+    {
+      "word": " glow",
+      "start_s": 243.971,
+      "end_s": 244.356,
+      "success": true
+    },
+    {
+      "word": "\n\n[Outro – instruments separate into their original fragments]\n\n\n[Voice 1]\nOne",
+      "start_s": 247.705,
+      "end_s": 247.953,
+      "success": true
+    },
+    {
+      "word": " little",
+      "start_s": 248.05,
+      "end_s": 248.575,
+      "success": true
+    },
+    {
+      "word": " piece",
+      "start_s": 248.757,
+      "end_s": 249.157,
+      "success": true
+    },
+    {
+      "word": "\n\n[Voice 2]\nOne",
+      "start_s": 252.112,
+      "end_s": 252.432,
+      "success": true
+    },
+    {
+      "word": " little",
+      "start_s": 252.503,
+      "end_s": 253.204,
+      "success": true
+    },
+    {
+      "word": " line",
+      "start_s": 253.204,
+      "end_s": 253.736,
+      "success": true
+    },
+    {
+      "word": "\n\n[Voice 3]\nA",
+      "start_s": 256.302,
+      "end_s": 256.382,
+      "success": true
+    },
+    {
+      "word": " hundred",
+      "start_s": 256.492,
+      "end_s": 257.268,
+      "success": true
+    },
+    {
+      "word": " colors",
+      "start_s": 257.459,
+      "end_s": 258.057,
+      "success": true
+    },
+    {
+      "word": "\n\n[All]\nMaking",
+      "start_s": 259.128,
+      "end_s": 259.665,
+      "success": true
+    },
+    {
+      "word": " a",
+      "start_s": 259.665,
+      "end_s": 259.923,
+      "success": true
+    },
+    {
+      "word": " w",
+      "start_s": 259.923,
+      "end_s": 260.375,
+      "success": true
+    },
+    {
+      "word": "ider",
+      "start_s": 260.375,
+      "end_s": 260.695,
+      "success": true
+    },
+    {
+      "word": " mind",
+      "start_s": 260.742,
+      "end_s": 261.081,
+      "success": true
+    },
+    {
+      "word": "\n\n[Softly, solo]\nAnd",
+      "start_s": 268.252,
+      "end_s": 268.492,
+      "success": true
+    },
+    {
+      "word": " the",
+      "start_s": 268.517,
+      "end_s": 268.714,
+      "success": true
+    },
+    {
+      "word": " seams",
+      "start_s": 268.714,
+      "end_s": 269.545,
+      "success": true
+    },
+    {
+      "word": " still",
+      "start_s": 269.545,
+      "end_s": 270.165,
+      "success": true
+    },
+    {
+      "word": " show.\n\n",
+      "start_s": 270.165,
+      "end_s": 270.672,
+      "success": true
+    }
+  ]
+}
