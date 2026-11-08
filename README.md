@@ -3,7 +3,9 @@
 **Creative baseline:** one finished panoramic mural, read from LEFT to RIGHT in the exact order of the sung lyrics. A photorealistic cathedral is **static geometry**. The **only animated thing is a real 3D camera** moving along the mural and pulling back at the end.
 
 - [Listen to Suno take 1](https://suno.com/song/38f117cc-015a-4c44-98dd-cfae3f1acd89) — reference for current timing (4:36.56)
-- [Lyric beats and EXACT sung times](production/take1_word_anchors.json) — 49 phrase occurrences recovered from Suno's word alignment.
+- **[THE ENTIRE SONG AS ONE STORYBOARD — 106 lyrics, 12 instrumental passages](production/FULL_SONG_STORYBOARD.md)** — master visual plan, with exact model-produced lyric timings and positions.
+- [Machine-readable complete storyboard](production/FULL_SONG_STORYBOARD.json)
+- [Lyric beats and exact Suno alignment times](production/take1_word_anchors.json) — 49 phrase occurrences recovered from Suno's word alignment.
 - [Complete 13-chapter visual story](production/frieze_manifest.json) — each time range specifies what MUST be drawn, plus left/right scene continuity.
 - [Provider-ready art prompts](production/ASSET_HANDOFF.md) — for your GPT Plan or another artist.
 - [Creative baseline](production/LINEAR_BASELINE.md) — monotonic left-to-right, no backtracking, static painting.
@@ -17,7 +19,7 @@ This branch includes executable image assembly, a silent baseline 2D camera test
 
 ## Asset inputs (artist / GPT Plan)
 
-Use [ASSET_HANDOFF.md](production/ASSET_HANDOFF.md) to create **13 adjacent, front-facing stills**, each native **3072×2048** px if the generation service can provide that genuine detail. If not, report the actual native dimensions; do not silently upscale.
+First use [FULL_SONG_STORYBOARD.md](production/FULL_SONG_STORYBOARD.md) to make **ONE low-detail storyboard of the entire continuous 39-metre story, including all 106 moments**. Review its visual geography from beginning to end. **Only after this single full-song storyboard works**, use [ASSET_HANDOFF.md](production/ASSET_HANDOFF.md) to produce **13 adjacent, front-facing stills**, each native **3072×2048** px if the generation service can provide that genuine detail. If not, report the actual native dimensions; do not silently upscale.
 
 Place each image at its exact path under `assets/incoming/`, according to `production/frieze_manifest.json`. The images must connect visually across their edges. They are **not** clips, sprites, renders of cathedral interiors, or standalone covers.
 
