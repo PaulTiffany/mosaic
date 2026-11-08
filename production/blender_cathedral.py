@@ -122,7 +122,7 @@ if args.cathedral:
     if args.cathedral.suffix.lower() not in (".glb",".gltf"):
         raise ValueError("Only glTF/GLB static scene supplied here.")
     bpy.ops.import_scene.gltf(filepath=str(args.cathedral.resolve()))
-    print("Imported cathedral architecture: verify orientation, scale, light and mural visibility.")
+    print("Imported cathedral architecture, BUT procedural blockout also exists: hide/remove BLOCKOUT geometry and verify alignment before rendering.")
 
 # Stationary, non-pulsing illumination.
 world=bpy.context.scene.world
@@ -205,7 +205,10 @@ except (TypeError,ValueError):
         scene.render.engine="BLENDER_EEVEE"
     except (TypeError,ValueError):
         scene.render.engine="CYCLES"
-scene.view_settings.view_transform="AgX" if "AgX" in bpy.types.ColorManagedViewSettings.bl_rna.properties["view_transform"].enum_items.keys() else "Standard"
+try:
+    scene.view_settings.view_transform="AgX"
+except (TypeError,ValueError):
+    scene.view_settings.view_transform="Standard"
 args.save.parent.mkdir(parents=True,exist_ok=True)
 scene.frame_set(1)
 bpy.ops.wm.save_as_mainfile(filepath=str(args.save.resolve()))
