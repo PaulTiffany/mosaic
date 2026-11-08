@@ -42,7 +42,7 @@ class LineByLineGeneration(unittest.TestCase):
     def test_no_chapter_as_individual_generation_unit(self):
         self.assertEqual(len(PLAN["generation_jobs"]),STORY["shot_count"])
         self.assertIn("storage/render groups",PLAN["source_of_truth"])
-        self.assertIn("outpainting",PLAN["creative_constraints"]["seam_protection"].lower())
+        self.assertIn("outpaint",PLAN["creative_constraints"]["seam_protection"].lower())
 
 if __name__=="__main__":
     unittest.main()
