@@ -1,0 +1,17 @@
+{
+  "schema": "mosaic-camera-route/4",
+  "current": "PRODUCTION SINGLE SOURCE OF TRUTH",
+  "design_manifest": "production/frieze_manifest.json",
+  "word_alignment": "production/take1_word_anchors.json",
+  "selected_take": "38f117cc-015a-4c44-98dd-cfae3f1acd89",
+  "camera_function": "for time t from 0 to 268.252, locate the current panel [start_s,end_s], set u=(panel.index+(t-start_s)/(end_s-start_s))/13. Frame the corresponding story on ONE static wall. For t >= 268.252 keep horizontal X at the rightmost end and dolly/rotate backward for cathedral reveal.",
+  "constraints": {
+    "left_to_right": true,
+    "u_monotonic": true,
+    "mural_static": true,
+    "cathedral_static": true,
+    "camera_only_motion": true,
+    "repeated_choruses_have_new_locations": true
+  },
+  "note": "The first exploratory uv keyframes and the three-register serpentine design were superseded. Do not construct a second, conflicting map here. See frieze_manifest.json for all per-line visual content and time spans; see blender_cathedral.py for actual physical-world transforms."
+}

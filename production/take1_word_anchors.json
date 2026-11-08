@@ -1,0 +1,303 @@
+{
+  "schema": "mosaic/song-word-spatial-anchor/1",
+  "song_url": "https://suno.com/song/38f117cc-015a-4c44-98dd-cfae3f1acd89",
+  "basis": "Suno complete song word alignment, best effort; inspect original sung audio before picture lock",
+  "source_alignment": "production/suno_take1_alignment.json",
+  "progress_direction": "left-to-right; u never decreases",
+  "anchors": [
+    {
+      "song_s": 8.984,
+      "phrase": "One little piece",
+      "story_u": 0.030907,
+      "alignment_success": true
+    },
+    {
+      "song_s": 11.278,
+      "phrase": "One little line",
+      "story_u": 0.038799,
+      "alignment_success": true
+    },
+    {
+      "song_s": 13.34,
+      "phrase": "A hundred colors",
+      "story_u": 0.045892,
+      "alignment_success": true
+    },
+    {
+      "song_s": 16,
+      "phrase": "Making a wider mind",
+      "story_u": 0.055043,
+      "alignment_success": true
+    },
+    {
+      "song_s": 22.36,
+      "phrase": "Hockey sticks climbing on a glowing screen",
+      "story_u": 0.076923,
+      "alignment_success": true
+    },
+    {
+      "song_s": 24.516,
+      "phrase": "Same old numbers in the morning news",
+      "story_u": 0.086321,
+      "alignment_success": true
+    },
+    {
+      "song_s": 26.792,
+      "phrase": "A cook knows fire a coder knows the keys",
+      "story_u": 0.096241,
+      "alignment_success": true
+    },
+    {
+      "song_s": 31.621,
+      "phrase": "Put the pieces where their edges shine",
+      "story_u": 0.117289,
+      "alignment_success": true
+    },
+    {
+      "song_s": 40.008,
+      "phrase": "Mosaic intelligence",
+      "story_u": 0.153846,
+      "alignment_success": true
+    },
+    {
+      "song_s": 42.242,
+      "phrase": "A thousand different hands",
+      "story_u": 0.163184,
+      "alignment_success": true
+    },
+    {
+      "song_s": 48.623,
+      "phrase": "Now the agents join the picture",
+      "story_u": 0.189854,
+      "alignment_success": true
+    },
+    {
+      "song_s": 58.412,
+      "phrase": "More on the shelves less on the tags",
+      "story_u": 0.230769,
+      "alignment_success": true
+    },
+    {
+      "song_s": 60.707,
+      "phrase": "A million minds and a modest graph",
+      "story_u": 0.239452,
+      "alignment_success": true
+    },
+    {
+      "song_s": 65.132,
+      "phrase": "Who gets to take it home",
+      "story_u": 0.256195,
+      "alignment_success": true
+    },
+    {
+      "song_s": 67.311,
+      "phrase": "Whose windows glow",
+      "story_u": 0.264439,
+      "alignment_success": true
+    },
+    {
+      "song_s": 74.553,
+      "phrase": "Whose windows glow",
+      "story_u": 0.291839,
+      "alignment_success": true
+    },
+    {
+      "song_s": 92.575,
+      "phrase": "The farm was forty parts of the pie",
+      "story_u": 0.384615,
+      "alignment_success": true
+    },
+    {
+      "song_s": 95.454,
+      "phrase": "Now its two though the harvest climbs",
+      "story_u": 0.392532,
+      "alignment_success": true
+    },
+    {
+      "song_s": 97.67,
+      "phrase": "More in the fields less on the chart",
+      "story_u": 0.398626,
+      "alignment_success": true
+    },
+    {
+      "song_s": 102.181,
+      "phrase": "Competition brings the prices down",
+      "story_u": 0.411031,
+      "alignment_success": true
+    },
+    {
+      "song_s": 108.637,
+      "phrase": "Whos got the wages to sing along",
+      "story_u": 0.428784,
+      "alignment_success": true
+    },
+    {
+      "song_s": 110.855,
+      "phrase": "One point a year becomes a rising tide",
+      "story_u": 0.434884,
+      "alignment_success": true
+    },
+    {
+      "song_s": 120.548,
+      "phrase": "Old familiar markets",
+      "story_u": 0.461538,
+      "alignment_success": true
+    },
+    {
+      "song_s": 124.722,
+      "phrase": "New unopened markets",
+      "story_u": 0.479285,
+      "alignment_success": true
+    },
+    {
+      "song_s": 128.951,
+      "phrase": "But a doorway isnt passage",
+      "story_u": 0.497266,
+      "alignment_success": true
+    },
+    {
+      "song_s": 131.141,
+      "phrase": "And a forecast isnt fate",
+      "story_u": 0.506577,
+      "alignment_success": true
+    },
+    {
+      "song_s": 138.64,
+      "phrase": "More on the shelves less on the tags",
+      "story_u": 0.538462,
+      "alignment_success": true
+    },
+    {
+      "song_s": 140.908,
+      "phrase": "A million minds and a modest graph",
+      "story_u": 0.544109,
+      "alignment_success": true
+    },
+    {
+      "song_s": 145.282,
+      "phrase": "Who gets to take it home",
+      "story_u": 0.555001,
+      "alignment_success": true
+    },
+    {
+      "song_s": 147.508,
+      "phrase": "Whose windows glow",
+      "story_u": 0.560543,
+      "alignment_success": true
+    },
+    {
+      "song_s": 154.722,
+      "phrase": "Whose windows glow",
+      "story_u": 0.578507,
+      "alignment_success": true
+    },
+    {
+      "song_s": 169.532,
+      "phrase": "Two points higher on the jobless line",
+      "story_u": 0.615385,
+      "alignment_success": true
+    },
+    {
+      "song_s": 177.908,
+      "phrase": "No calendar can tell us",
+      "story_u": 0.652045,
+      "alignment_success": true
+    },
+    {
+      "song_s": 182.733,
+      "phrase": "The future isnt only",
+      "story_u": 0.673163,
+      "alignment_success": true
+    },
+    {
+      "song_s": 187.107,
+      "phrase": "I used to see the borders",
+      "story_u": 0.692308,
+      "alignment_success": true
+    },
+    {
+      "song_s": 191.521,
+      "phrase": "Now I can cross the disciplines",
+      "story_u": 0.711284,
+      "alignment_success": true
+    },
+    {
+      "song_s": 196.05,
+      "phrase": "Not twice as many papers",
+      "story_u": 0.730754,
+      "alignment_success": true
+    },
+    {
+      "song_s": 204.527,
+      "phrase": "Show me the source",
+      "story_u": 0.767197,
+      "alignment_success": true
+    },
+    {
+      "song_s": 205.488,
+      "phrase": "Show me the seam",
+      "story_u": 0.771052,
+      "alignment_success": true
+    },
+    {
+      "song_s": 206.654,
+      "phrase": "Which part is measured",
+      "story_u": 0.775405,
+      "alignment_success": true
+    },
+    {
+      "song_s": 220.303,
+      "phrase": "I still write the final line",
+      "story_u": 0.826358,
+      "alignment_success": true
+    },
+    {
+      "song_s": 225.606,
+      "phrase": "More on the shelves less on the tags",
+      "story_u": 0.846154,
+      "alignment_success": true
+    },
+    {
+      "song_s": 227.877,
+      "phrase": "A million minds and a modest graph",
+      "story_u": 0.854059,
+      "alignment_success": true
+    },
+    {
+      "song_s": 242.393,
+      "phrase": "Let every window glow",
+      "story_u": 0.904587,
+      "alignment_success": true
+    },
+    {
+      "song_s": 247.705,
+      "phrase": "One little piece",
+      "story_u": 0.923077,
+      "alignment_success": true
+    },
+    {
+      "song_s": 252.112,
+      "phrase": "One little line",
+      "story_u": 0.939576,
+      "alignment_success": true
+    },
+    {
+      "song_s": 256.302,
+      "phrase": "A hundred colors",
+      "story_u": 0.955262,
+      "alignment_success": true
+    },
+    {
+      "song_s": 259.128,
+      "phrase": "Making a wider mind",
+      "story_u": 0.965842,
+      "alignment_success": true
+    },
+    {
+      "song_s": 268.252,
+      "phrase": "And the seams still show",
+      "story_u": 1,
+      "alignment_success": true
+    }
+  ]
+}
