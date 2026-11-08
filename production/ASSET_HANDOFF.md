@@ -1,3 +1,5 @@
+> **NEW FIRST DELIVERABLE:** [FULL_SONG_STORYBOARD.md](FULL_SONG_STORYBOARD.md) maps all 106 actual sung lines and 12 instrumental intervals to left-to-right visual beats; [FULL_SONG_STORYBOARD.json](FULL_SONG_STORYBOARD.json) is the canonical machine-readable source. Artists MUST compose a single rough complete horizontal storyboard from this entire lyric map before separately producing any detailed plates. Do not start with three polished disconnected images.
+
 # MOSAIC — Asset generation handoff / GPT Plan
 **Deliverables are still images, not video. All material remains fixed in final render.**
 
