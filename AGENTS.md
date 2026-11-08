@@ -1,6 +1,6 @@
 # MOSAIC — Creative production contract
 
-Read [production/LYRIC_CAMERA_ATLAS.md](production/LYRIC_CAMERA_ATLAS.md) FIRST, then [docs/CATHEDRAL_DIRECTION.md](docs/CATHEDRAL_DIRECTION.md) and [production/camera_route.json](production/camera_route.json) before changing media scripts or constructing any asset. **The lyric camera atlas supersedes camera_route.json where their spatial targets disagree.** The current creative decision supersedes the abandoned flying-tile treatment.
+Read [production/LINEAR_BASELINE.md](production/LINEAR_BASELINE.md) FIRST. It overrides the earlier serpentine/three-register plan and any contradictory narrative path. Then read [docs/CATHEDRAL_DIRECTION.md](docs/CATHEDRAL_DIRECTION.md) and [production/camera_route.json](production/camera_route.json).
 
 ## Non-negotiable visual invariant
 
