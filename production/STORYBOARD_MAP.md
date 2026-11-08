@@ -12,9 +12,9 @@ The 12 instrumental intervals are listed in [FULL_SONG_STORYBOARD.md](FULL_SONG_
 
 **Stage 0 — Review/edit this entire map.** We approve the entire visual storyline, not 13 generic themes, and not 3 isolated polished images. This is the place to change an individual lyric's representation, reorder geography, make an emotional beat clearer, or introduce a cathedral/stained-glass motif at particular lyrics.
 
-**Stage 1 — Prove the image seam with three consecutive lyric images.** Pick a fixed global image style and compose first scene. Generate the next *using the real right edge of the accepted prior image as locked pixel input on its left*, extending only the uncovered RIGHT side. Repeat for third. Inspect each join at full pixel scale and each lyric's depiction. This is NOT an alpha blend, crossfade, or transition; it is **rightward outpainting** of one finished, static work of art.
+**Stage 1 — Prove the image seam with three consecutive lyric images.** Pick a fixed global image style and compose the first scene. Generate each next image *using the real right edge of the accumulated approved mural as locked pixel input on its left*, extending only the uncovered RIGHT side. Repeat for third. Inspect each join at full pixel scale and each lyric's depiction. This is NOT an alpha blend, crossfade, or transition; it is **rightward outpainting** of one finished, static work of art.
 
-**Stage 2 — 106 sequential generations, one per lyric.** Work in sung order. Every generation gets (a) the full approved storyboard/map as global context; (b) the precise current lyric and visual description; (c) the actual prior approved image with a locked overlap as its left edge; (d) the NEXT lyric as a *direction for the right-hand edge*, not a scene to depict early. Save the original image, exact prompt, model, metadata and approval/redo history. Do not charge/run 106 paid requests automatically.
+**Stage 2 — 106 sequential generations, one per lyric, WITHOUT lookahead.** The director/orchestrator reviews the full map, but the image model receives **only** (a) a short, invariant material/style instruction; (b) an image/mask containing the literal locked RIGHT EDGE of the cumulative, already-approved mural; and (c) the CURRENT lyric and its specific proposed new visual. Do **not** supply the full storyboard, the previous line's lyrics, or ANY future lyric/scene hints to inference. Extend into the new masked RIGHT area, never redraw accepted pixels. Save the image, prompt, model, masked-region/overlap hashes, metadata and approval/redo history. Do not charge/run 106 paid requests automatically.
 
 **Stage 3 — Composite and inspect the immutable panorama.** The previously locked overlap is identical and included once; only the new unique rightward pixels extend the picture. Reject altered overlaps, disjoint perspective, abrupt character drift, blank gaps, repeated character/city clones, unverified numbers/text, and scenes where the wrong lyric is visible. The 13 chapter boundaries may help organize/stitch files, but are **not** generation units. The provisional 39m/39,936px wall is NOT final until tested for actual per-line readability.
 
@@ -24,11 +24,13 @@ The 12 instrumental intervals are listed in [FULL_SONG_STORYBOARD.md](FULL_SONG_
 
 ## The key seam contract
 
-For lyric `S047`, the generation operation receives **the real, accepted `S046` rightmost crop** and the full map. The previous crop is used as the **unchanged left context** on its input canvas; `S047` is painted only to the right. A consistency check verifies the locked crop before accepting the new continuation. In other words:
+For lyric `S047`, the image generation receives **only the real, accepted cumulative mural's rightmost crop through `S046`, its locked mask, and the current lyric's visual target**. The full map is visible to the director only, never supplied to the image model. The previous crop is used as the **unchanged left context** on its input canvas; `S047` is painted only to the right. A consistency check verifies the locked crop before accepting the new continuation. In other words:
 
 `[accepted prior image … | LOCKED overlap] + [NEW next lyric imagery →] = ONE extending still mural`.
 
 A mere instruction to "match the last image" is NOT sufficient; it may produce a vaguely similar but disconnected image. Pixel-locked outpainting or explicit compositing of the preserved overlap is required.
+
+**Why this matters:** Giving the model "what comes next" can make the next lyric appear *early*, contaminate this line's imagery, and impose premature compositional commitments. Previous **pixels**, not previous **lyric text**, carry continuity. We still need to watch for cumulative visual drift and test whether a constrained overlap actually performs better than a larger conditioning history; avoiding lookahead reduces one confound but does not guarantee perfect continuity.
 
 **This process is provider-neutral.** Your own GPT Plan, an image-generation editor with controlled masks, or a local outpainting tool can provide assets. If a provider cannot preserve and extend the edge, use it only for rough concept drafts, not final seam-preserving output.
 
