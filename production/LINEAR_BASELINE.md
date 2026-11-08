@@ -1,3 +1,5 @@
+> **Detailed master is now complete:** [FULL_SONG_STORYBOARD.md](FULL_SONG_STORYBOARD.md) (106 sung lines + 12 instrumental windows). All scene positions and production approvals must refer to that entire story, not just 13 topics or initial three plates.
+
 # Locked baseline: one-direction lyric side-scroller
 
 **Creative instruction (November 7, 2026).** The baseline is a **linear visual story, read from left to right exactly in lyric order**. The cathedral and visual material are subsequent presentation layers. The story must work as a silent, flat, horizontally scrolling strip *before* any 3D work.
