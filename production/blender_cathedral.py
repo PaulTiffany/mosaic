@@ -65,17 +65,18 @@ def block(name,location,dimensions,mat):
     ob.data.materials.append(mat)
     return ob
 
-# Physically static blockout, replaceable by separately supplied cathedral asset.
-block("STONE BACK WALL",(0,0.8,6.0),(width+8,1.0,12.0),stone)
-block("CATHEDRAL FLOOR",(0,-13,-0.22),(width+16,29,0.36),floor_mat)
-block("CEILING VAULT BLOCKOUT",(0,-12.0,12.0),(width+16,27,0.8),stone)
-for i in range(12):
-    x=-width/2+1.3+i*width/11
-    block(f"Stone wall pier {i:02d}",(x,0.12,5.6),(.30,.55,8.5),stone)
-    block(f"Roof rib {i:02d}",(x,-7.4,10.7),(.28,15.0,.35),stone)
-    block(f"Remote nave column {i:02d}",(x,-14.0,5.6),(.60,.60,11.0),stone)
-block("GOLD MURAL TRIM UPPER",(0,0.20,4.21),(width+0.26,.30,.15),gold)
-block("GOLD MURAL TRIM LOWER",(0,0.20,2.00),(width+0.26,.30,.15),gold)
+# Only construct geometry blockout when NO creator-supplied cathedral model exists.
+if not args.cathedral:
+    block("STONE BACK WALL",(0,0.8,6.0),(width+8,1.0,12.0),stone)
+    block("CATHEDRAL FLOOR",(0,-13,-0.22),(width+16,29,0.36),floor_mat)
+    block("CEILING VAULT BLOCKOUT",(0,-12.0,12.0),(width+16,27,0.8),stone)
+    for i in range(12):
+        x=-width/2+1.3+i*width/11
+        block(f"Stone wall pier {i:02d}",(x,0.12,5.6),(.30,.55,8.5),stone)
+        block(f"Roof rib {i:02d}",(x,-7.4,10.7),(.28,15.0,.35),stone)
+        block(f"Remote nave column {i:02d}",(x,-14.0,5.6),(.60,.60,11.0),stone)
+    block("GOLD MURAL TRIM UPPER",(0,0.20,4.21),(width+0.26,.30,.15),gold)
+    block("GOLD MURAL TRIM LOWER",(0,0.20,2.00),(width+0.26,.30,.15),gold)
 
 # This one planar object has one adjacent fixed quad per source image plate.
 # Breaking the texture into GPUs' manageable image dimensions does NOT
@@ -122,7 +123,7 @@ if args.cathedral:
     if args.cathedral.suffix.lower() not in (".glb",".gltf"):
         raise ValueError("Only glTF/GLB static scene supplied here.")
     bpy.ops.import_scene.gltf(filepath=str(args.cathedral.resolve()))
-    print("Imported cathedral architecture, BUT procedural blockout also exists: hide/remove BLOCKOUT geometry and verify alignment before rendering.")
+    print("Imported supplied cathedral geometry (replacing procedural blockout). Verify alignment, lighting and mural visibility.")
 
 # Stationary, non-pulsing illumination.
 world=bpy.context.scene.world
