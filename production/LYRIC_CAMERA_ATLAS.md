@@ -1,3 +1,9 @@
+# SUPERSEDED BY LINEAR BASELINE
+
+The user corrected this proposal: **a true one-direction, left-to-right, lyric-timed visual side-scroller**. The three-register serpentine approach below is REJECTED. Read [LINEAR_BASELINE.md](LINEAR_BASELINE.md) and [camera_route.json](camera_route.json) instead. Kept as a historical design iteration only.
+
+---
+
 # Lyric-locked mural composition / cinematic pilgrimage
 **Creative correction (November 7, 2026):** Build the IMAGE FROM THE LYRICS AND CAMERA JOURNEY, not the camera route from a collage of interview topics.
 
