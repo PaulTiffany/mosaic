@@ -1,0 +1,297 @@
+{
+  "schema": "mosaic/static-lyric-frieze/1",
+  "status": "production-spec-not-art",
+  "selected_suno_take": "38f117cc-015a-4c44-98dd-cfae3f1acd89",
+  "source_song_url": "https://suno.com/song/38f117cc-015a-4c44-98dd-cfae3f1acd89",
+  "song_duration_s": 276.56,
+  "horizontal_story_end_s": 268.252,
+  "outro_reveal_s": [
+    268.252,
+    276.56
+  ],
+  "layout": {
+    "segment_count": 13,
+    "segment_px": {
+      "width": 3072,
+      "height": 2048
+    },
+    "master_px": {
+      "width": 39936,
+      "height": 2048
+    },
+    "aspect_ratio": 19.5,
+    "physical_m": {
+      "width": 39,
+      "height": 2
+    },
+    "direction": "strictly left to right",
+    "camera": "only moving object",
+    "panel_seams": "fixed art joins; continuous ground/sky/horizon; no animation"
+  },
+  "assets": [
+    {
+      "file": "assets/incoming/00-one-little-piece.png",
+      "id": "00-one-little-piece",
+      "index": 0,
+      "start_s": 0,
+      "end_s": 22.36,
+      "uv_left": 0,
+      "uv_right": 0.07692307692307693,
+      "lyrics": [
+        "One little piece",
+        "One little line",
+        "A hundred colors",
+        "Making a wider mind"
+      ],
+      "visual": "Begin on a single blue tessera in the hands of a careful mosaic artisan. The artisan's scribed guiding line becomes a winding cobbled street. Along that street, more hands and trades appear, differentiated but visually connected. The left edge is the start of the narrative, not an isolated title card.",
+      "left_edge": "Origin: a bright blue tessera on dark stone.",
+      "right_edge": "Stone street and tool marks continue into a real town at the exact same horizon.",
+      "medium": "ceramic / gold tesserae"
+    },
+    {
+      "file": "assets/incoming/01-hockey-stick-town.png",
+      "id": "01-hockey-stick-town",
+      "index": 1,
+      "start_s": 22.36,
+      "end_s": 40.008,
+      "uv_left": 0.07692307692307693,
+      "uv_right": 0.15384615384615385,
+      "lyrics": [
+        "Hockey sticks climbing on a glowing screen",
+        "Same old numbers in the morning news",
+        "A cook knows fire, a coder knows the keys",
+        "Everybody brings a different view"
+      ],
+      "visual": "Continuous morning town street: one shopkeeper reading a modest economic newspaper, an upward capability curve on a single workshop screen, a cook working with fire next door, and a coder working with keys. The comparison is visually clear without relying on tiny generated lettering.",
+      "left_edge": "Continue the cobbled road, artisan's workbench and stone walls from panel 00.",
+      "right_edge": "Kitchen/coder/workshop activities converge through shared deliveries and a corridor into an organization.",
+      "medium": "ceramic / gold tesserae"
+    },
+    {
+      "file": "assets/incoming/02-mosaic-intelligence.png",
+      "id": "02-mosaic-intelligence",
+      "index": 2,
+      "start_s": 40.008,
+      "end_s": 58.412,
+      "uv_left": 0.15384615384615385,
+      "uv_right": 0.23076923076923078,
+      "lyrics": [
+        "Mosaic intelligence",
+        "A thousand different hands",
+        "Building something larger",
+        "Now the agents join the picture",
+        "Is it everything they know alone / Or what they learn to do in tune?"
+      ],
+      "visual": "From the left, distinct workshops with cooperative specialists join into one functioning organization: people exchanging tools, food, designs, and computation. A recognizably artificial collaborator appears beside humans using tools, not a giant face or central hero. Visual metaphor: parts making a larger productive system without losing identity.",
+      "left_edge": "Kitchen, code and workbench flow into the same physical building from panel 01.",
+      "right_edge": "Organization's logistics lead naturally into producing and delivering physical goods.",
+      "medium": "ceramic / gold tesserae"
+    },
+    {
+      "file": "assets/incoming/03-abundance-windows.png",
+      "id": "03-abundance-windows",
+      "index": 3,
+      "start_s": 58.412,
+      "end_s": 78.743,
+      "uv_left": 0.23076923076923078,
+      "uv_right": 0.3076923076923077,
+      "lyrics": [
+        "More on the shelves, less on the tags",
+        "A million minds and a modest graph",
+        "If everything grows and the prices fall",
+        "Who gets to take it home?",
+        "Whose windows glow when the engines shine?"
+      ],
+      "visual": "Connected workshop-to-market-to-residential street: overflowing market shelves, smaller price tags as visual proportions (do not require readable text), an understated graph, and a person weighing whether they can afford goods. Beyond the shop are lived-in upper windows: some illuminated warm, others dark. All fixed, no magical lighting changes.",
+      "left_edge": "Delivery cart and the same roadway emerge from the organization production area.",
+      "right_edge": "Market street bends past homes toward a quiet stained-glass transition about individual lives.",
+      "medium": "mosaic with optional static stained-glass windows"
+    },
+    {
+      "file": "assets/incoming/04-colors-and-picture.png",
+      "id": "04-colors-and-picture",
+      "index": 4,
+      "start_s": 78.743,
+      "end_s": 92.575,
+      "uv_left": 0.3076923076923077,
+      "uv_right": 0.38461538461538464,
+      "lyrics": [
+        "Oh-oh, let the colors go",
+        "Oh-oh, make the picture whole"
+      ],
+      "visual": "A coherent meditative passage along the same city street: people of different lives and colors, a recurring blue tessera motif and gold grout articulating interdependence. Visual counterpoint becomes legible as ONE scene rather than disjoint icons. A static architectural arch transitions the street toward agricultural land.",
+      "left_edge": "Continue same inhabited windows and street from panel 03.",
+      "right_edge": "Urban cobbled road becomes a country path toward fields with a consistent ground line.",
+      "medium": "mosaic; optional static stained-glass inset"
+    },
+    {
+      "file": "assets/incoming/05-fields-and-measures.png",
+      "id": "05-fields-and-measures",
+      "index": 5,
+      "start_s": 92.575,
+      "end_s": 120.548,
+      "uv_left": 0.38461538461538464,
+      "uv_right": 0.46153846153846156,
+      "lyrics": [
+        "The farm was forty parts of the pie",
+        "Now it's two, though the harvest climbs",
+        "More in the fields, less on the chart",
+        "Competition brings the prices down",
+        "Who's got the wages to sing along?",
+        "One point a year becomes a rising tide"
+      ],
+      "visual": "A continuous agricultural landscape from left to right: older labor-intensive field transforms visually across SPACE (not time) into highly productive harvest and distribution; in the stone border, a deliberately small economic-share diagram 40 to 2 is set in simple fixed shapes. The abundant harvest enters a market where wages matter. A thin tide-like river carries a subtle compounding-growth metaphor.",
+      "left_edge": "Country road and stone boundary from panel 04 lead straight into visible crops.",
+      "right_edge": "Farm-to-market road reaches a familiar town with employment paths and doors.",
+      "medium": "glass tesserae, wheat-gold and cobalt"
+    },
+    {
+      "file": "assets/incoming/06-doorways-and-forecast.png",
+      "id": "06-doorways-and-forecast",
+      "index": 6,
+      "start_s": 120.548,
+      "end_s": 138.64,
+      "uv_left": 0.46153846153846156,
+      "uv_right": 0.5384615384615384,
+      "lyrics": [
+        "Old familiar markets",
+        "May have wages falling through",
+        "New unopened markets",
+        "Might have better work to do",
+        "But a doorway isn't passage",
+        "And a forecast isn't fate"
+      ],
+      "visual": "On a coherent street, a worker stands between an old occupied workshop and a newly opened but uncertain doorway. Some wages and prospects decline while opportunities elsewhere appear, no predetermined happy ending. A doorway is clearly an invitation but not an accomplished passage. No multiple timelines or magical portals.",
+      "left_edge": "Market and town road continue from panel 05.",
+      "right_edge": "Road continues forward into a different district of inhabited city windows.",
+      "medium": "mosaic with static stone arches"
+    },
+    {
+      "file": "assets/incoming/07-second-window-question.png",
+      "id": "07-second-window-question",
+      "index": 7,
+      "start_s": 138.64,
+      "end_s": 169.532,
+      "uv_left": 0.5384615384615384,
+      "uv_right": 0.6153846153846154,
+      "lyrics": [
+        "More on the shelves, less on the tags",
+        "Who gets to take it home?",
+        "Whose windows glow",
+        "The world can change more than the numbers show"
+      ],
+      "visual": "Another neighborhood farther EAST along the same physical city, not a repeated tile or a return to an earlier one. Richly observed apartment lives; different households, one sees abundance, one has uncertainty. Shops, transport and the quiet economic graph are visible as street details. The repeated question becomes more complicated after the farm and wage scenes.",
+      "left_edge": "The uncertain worker from panel 06 can be seen entering city road at edge.",
+      "right_edge": "The inhabited street expands into a gathering public plaza/civic square.",
+      "medium": "mosaic / static stained glass as optional chorus accent"
+    },
+    {
+      "file": "assets/incoming/08-human-institutions.png",
+      "id": "08-human-institutions",
+      "index": 8,
+      "start_s": 169.532,
+      "end_s": 187.107,
+      "uv_left": 0.6153846153846154,
+      "uv_right": 0.6923076923076923,
+      "lyrics": [
+        "Two points higher on the jobless line",
+        "And the streets have something to say this time",
+        "No calendar can tell us",
+        "What the people will allow",
+        "The future isn't only what the machines know how"
+      ],
+      "visual": "Public square and institutions: economically displaced workers and ordinary citizens speaking and deliberating; civic stone facade, labor concerns and public control visibly coexist with productive machines and the city. A tiny graph in masonry alludes to unemployment. No riots invented; human choice is central, not machines smashing institutions.",
+      "left_edge": "The second residential district becomes a plaza with gathering people.",
+      "right_edge": "A library or scholarly portal emerges from the public square.",
+      "medium": "mosaic relief with static carved stone"
+    },
+    {
+      "file": "assets/incoming/09-research-borders.png",
+      "id": "09-research-borders",
+      "index": 9,
+      "start_s": 187.107,
+      "end_s": 205,
+      "uv_left": 0.6923076923076923,
+      "uv_right": 0.7692307692307693,
+      "lyrics": [
+        "I used to see the borders of everything I knew",
+        "Now I can cross the disciplines",
+        "Not twice as many papers",
+        "A thousand questions opening",
+        "Where the old maps used to end"
+      ],
+      "visual": "The same individual researcher enters a connected library and laboratory: historically legible stacks and instruments unfolding into adjacent maps of astronomy, economics, mathematics, computer science and other fields. Farther right the researcher is exploring methods beyond the previous borders. The emphasis is interdisciplinary access, not papers multiplying magically.",
+      "left_edge": "Library portico connects to civic plaza's street.",
+      "right_edge": "Open books and maps lead into an intimate inspection of evidence and tessera seams.",
+      "medium": "fine glass tesserae and illuminated manuscript motifs"
+    },
+    {
+      "file": "assets/incoming/10-show-me-the-source.png",
+      "id": "10-show-me-the-source",
+      "index": 10,
+      "start_s": 205,
+      "end_s": 225.606,
+      "uv_left": 0.7692307692307693,
+      "uv_right": 0.8461538461538461,
+      "lyrics": [
+        "Show me the source",
+        "Show me the seam",
+        "Which part is measured?",
+        "Which part is dream?",
+        "I draw the question / You trace the ground",
+        "Leave the joins where we can see",
+        "I still write the final line"
+      ],
+      "visual": "Close-readable research table: physical source manuscript, a chart with documented observation, a separate sketch or imaginative proposal, a seam between them; the author tests evidence and pens the final line while collaborators' work stays visible. The mosaic's own genuine grout tessera detail should be exquisite at macro scale. Source is not proved by its label: provenance should be inspectable.",
+      "left_edge": "Scientific maps and scholarly materials continue from panel 09.",
+      "right_edge": "Researcher's written pages and a blue tessera motif enter a larger aspirational public landscape.",
+      "medium": "finest ceramic/glass tesserae; visible grout"
+    },
+    {
+      "file": "assets/incoming/11-final-chorus.png",
+      "id": "11-final-chorus",
+      "index": 11,
+      "start_s": 225.606,
+      "end_s": 247.705,
+      "uv_left": 0.8461538461538461,
+      "uv_right": 0.9230769230769231,
+      "lyrics": [
+        "More on the shelves, less on the tags",
+        "May we find a way to bring it home",
+        "Let our windows glow",
+        "Let us share the morning",
+        "Not just the numbers",
+        "Let every window glow"
+      ],
+      "visual": "Third, farther-east neighborhood as HOPEFUL POSSIBILITY, not a solved prediction. A broad sunrise-colored city of individual households, accessible markets and shared benefit; distinctive workers and researchers link directly to human flourishing. The imagery should visibly echo prior scenes without copying them. Windows are depicted luminous in the completed artwork; they never switch on.",
+      "left_edge": "Researcher's desk overlooks or visually leads into connected human city.",
+      "right_edge": "Window arches resolve into makers' tools and glass motifs preparing the outro.",
+      "medium": "monumental static stained-glass accent may flank mosaic"
+    },
+    {
+      "file": "assets/incoming/12-outro-and-seam.png",
+      "id": "12-outro-and-seam",
+      "index": 12,
+      "start_s": 247.705,
+      "end_s": 268.252,
+      "uv_left": 0.9230769230769231,
+      "uv_right": 1,
+      "lyrics": [
+        "One little piece",
+        "One little line",
+        "A hundred colors",
+        "Making a wider mind",
+        "And the seams still show"
+      ],
+      "visual": "End the rightward visual journey with the same individual tessera from opening, now legible in the context of a vast accumulated composition. A mosaic artist's hand and a meticulously detailed gold-grouted seam return. This is an ending, not a triumphant claim that all problems were solved. Keep material boundaries explicitly visible. The final song seconds will use CAMERA DOLLY OUT from this region.",
+      "left_edge": "Warm city and window traceries from panel 11 transform spatially into glass artist workshop.",
+      "right_edge": "Visually resolved edge of the completed frieze, ample space for 3D camera reveal.",
+      "medium": "ceramic and glass tesserae with visible honest joins"
+    }
+  ],
+  "attributions": {
+    "song": "Original 'MOSAIC (Whose Windows Glow?)'",
+    "interview": "https://www.youtube.com/watch?v=cB1GNO95iog",
+    "source_timing": "Suno lyric aligner, best-effort, 2026-11-07"
+  }
+}
