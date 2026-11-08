@@ -1,25 +1,65 @@
-# MOSAIC — Cathedral music film
+# MOSAIC — one-dimensional lyric film inside a static 3D cathedral
 
-**Concept approved:** one completed, immutable stained-glass/ceramic mosaic in a photorealistic 3D cathedral. Across the song, the **camera alone** explores the mural, then retreats to reveal the whole composition. Nothing in the image or cathedral animates.
+**Creative baseline:** one finished panoramic mural, read from LEFT to RIGHT in the exact order of the sung lyrics. A photorealistic cathedral is **static geometry**. The **only animated thing is a real 3D camera** moving along the mural and pulling back at the end.
 
-- [Direction and visual invariant](docs/CATHEDRAL_DIRECTION.md)
-- [Planned source-timed 3D camera route](production/camera_route.json)
-- [Interview and song provenance](docs/PROVENANCE.md)
-- [Source interview](https://www.youtube.com/watch?v=cB1GNO95iog)
-- [Suno song — provisional take 1](https://suno.com/song/38f117cc-015a-4c44-98dd-cfae3f1acd89)
+- [Listen to Suno take 1](https://suno.com/song/38f117cc-015a-4c44-98dd-cfae3f1acd89) — reference for current timing (4:36.56)
+- [Lyric beats and EXACT sung times](production/take1_word_anchors.json) — 49 phrase occurrences recovered from Suno's word alignment.
+- [Complete 13-chapter visual story](production/frieze_manifest.json) — each time range specifies what MUST be drawn, plus left/right scene continuity.
+- [Provider-ready art prompts](production/ASSET_HANDOFF.md) — for your GPT Plan or another artist.
+- [Creative baseline](production/LINEAR_BASELINE.md) — monotonic left-to-right, no backtracking, static painting.
+- [Source interview and provenance](docs/PROVENANCE.md) — ML Street Talk conversation with Alex Imas.
 
-The original square cover remains a stylistic reference, **not** the full high-resolution mural required for close inspection.
+## Honest status
 
-## Status
+**Real production scripts and automated checks exist. Finished mural imagery and a real cathedral render DO NOT yet exist.** The original square album cover is a palette/style reference, not a substitute for the 39-metre lyric story. We explicitly rejected the earlier animated tile collage and unrelated single-image cathedral collage.
 
-This branch is **direction and shot planning**, not a video render. Earlier prototype PR #1 (moving tiles) was rejected and must not be used as the film. The finished still mural, cathedral model, final camera/scene, synced audio, and mastered video are not yet produced.
+This branch includes executable image assembly, a silent baseline 2D camera test, and a Blender 4.x scene-builder with a **blockout** cathedral. We have not claimed to run Blender in this environment or obtained any new image assets. The new art is to be supplied externally, possibly through the user's GPT Plan.
 
-## Approach
+## Asset inputs (artist / GPT Plan)
 
-1. Design a single, complete, static mural with readable visual narrative from capabilities and mosaic intelligence through prices, wages and research.
-2. Texture one plane in a real cathedral. Keep static, photoreal light and architecture.
-3. Animate one continuous camera path through this space, using actual Suno section and lyric times.
-4. Render a short proof with true perspective/stone/glass detail, then the full film.
-5. Publish complete license, technology, asset and interview credits, including Artilect's upstream provenance once dependencies have actually been used.
+Use [ASSET_HANDOFF.md](production/ASSET_HANDOFF.md) to create **13 adjacent, front-facing stills**, each native **3072×2048** px if the generation service can provide that genuine detail. If not, report the actual native dimensions; do not silently upscale.
 
-No Suno download credits, inference purchases, or new media generation are claimed or incurred by this plan.
+Place each image at its exact path under `assets/incoming/`, according to `production/frieze_manifest.json`. The images must connect visually across their edges. They are **not** clips, sprites, renders of cathedral interiors, or standalone covers.
+
+The logical master panorama is **39,936×2,048 px**, physically mapped to a **39 m × 2 m** wall. In Blender, the single static mesh uses 13 fixed material regions to avoid oversized GPU textures. This backend tiling is **not** an animation of individual tiles.
+
+### Production commands
+
+Run with Python 3.11+, Pillow, ffmpeg and (for the real cathedral shot) Blender 4.x:
+
+```sh
+python -m pip install "Pillow>=10,<13"
+python -m unittest discover -s tests -v
+
+# With all 13 creator-supplied plates at the declared locations:
+python production/assemble_frieze.py --check-only
+python production/assemble_frieze.py
+
+# Quick SILENT story/camera check, without architecture:
+python production/preview_side_scroll.py --guide
+python production/preview_side_scroll.py --start 0 --end 48 --fps 12
+
+# Blender must be installed externally. Creates an actual .blend with a
+# one-way 3D camera moving over the still mosaic. Does NOT render a movie.
+blender --background --python production/blender_cathedral.py -- \
+  --save output/mosaic_cathedral_blockout.blend
+
+# If you already have a photoreal static cathedral .glb:
+blender --background --python production/blender_cathedral.py -- \
+  --cathedral /path/to/cathedral.glb \
+  --save output/mosaic_cathedral_asset.blend
+```
+
+The supplied cathedral must have its **mural wall at y≈0, facing negative Y**, in the scene's meter-scale coordinates, or be aligned before render. The generated geometry alone is a blockout, not a finished photoreal asset. The full song is only 3D-renderable after importing the actual art.
+
+## Verifiability and rights
+
+- `production/suno_take1_alignment.json` preserves the actual model-derived 655-word alignment, with success flags. It is **best effort**, to be spot-checked against singing.
+- `production/take1_word_anchors.json` connects 49 distinct lyric occurrences to monotonic X positions. Repeated choruses occupy NEW mural territory.
+- `production/assemble_frieze.py` refuses missing, wrong-sized or duplicate art; exports SHA-256 source and master receipts and a seam-review sheet.
+- `tests/test_frieze_spec.py` verifies spatial direction, continuity, source timing and assembly via tiny colored **test fixtures**, which are NOT creative output.
+- `output/` and `assets/incoming/` are ignored by Git by default. Record actual artist/model, license, source and cost for each imported asset.
+
+No Suno download credits have been spent. No video publishing or Artilect submission has occurred. To satisfy Artilect later, upstream source projects used in the *actual production* must be credited and pinned as direct submodules.
+
+**Goal:** the lyric tells the story, X tells the order, the still artwork carries the meaning, and the real 3D camera reveals it.
