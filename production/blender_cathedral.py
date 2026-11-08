@@ -163,10 +163,15 @@ def set_pose(seconds, u, y=-4.5, z=3.15, lens=48, focus_x=None):
     camera.data.keyframe_insert(data_path="lens",frame=t)
 
 set_pose(0.0,0.0)
-for i,panel in enumerate(panels):
+for i,panel in enumerate(panels[:-1]):
     set_pose(float(panel["end_s"]),(i+1)/count)
-# Last lyric: continue to right edge then pull back into cathedral, no reverse pan.
-end=manifest["horizontal_story_end_s"]
+# The outro starts a gradual cathedral reveal while X remains nondecreasing.
+outro=panels[-1]
+def outro_u(t):
+    return (count-1+(t-outro["start_s"])/(outro["end_s"]-outro["start_s"]))/count
+set_pose(257.5,outro_u(257.5),y=-6.0,z=3.3,lens=43)
+set_pose(outro["end_s"],1.0,y=-12.0,z=4.8,lens=32,focus_x=12.0)
+# Hold X at the eastern edge, retreat/rotate toward the total mural. 
 set_pose(manifest["song_duration_s"],1.0,y=-28.0,z=8.2,lens=18,focus_x=0.0)
 
 # Smooth clamped Bézier curves to avoid overshoot (especially important for x)
