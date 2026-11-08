@@ -1,3 +1,5 @@
+> **SUPERSEDED CREATIVE ORDER:** The owner wants **the entire 106-line song storyboard first**, not three disconnected polished panels. Read [FULL_SONG_STORYBOARD.md](FULL_SONG_STORYBOARD.md) and make an all-song, one-piece rough visual frieze BEFORE any final panel generation. The first-three-plates specification below is historical and can only be used to refine approved global artwork later.
+
 # PILOT ASSET REQUEST — give this to your GPT Plan (or image-production agent)
 
 We are producing the actual **MOSAIC** music film, based on [our complete source-to-lyric creative specification](ASSET_HANDOFF.md). **Do not invent a new film concept.**
