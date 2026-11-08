@@ -1,3 +1,5 @@
+> **CURRENT GENERATION CONTRACT:** Read [production/STORYBOARD_MAP.md](production/STORYBOARD_MAP.md) and [production/LINE_GENERATION_PLAN.json](production/LINE_GENERATION_PLAN.json) FIRST. The owner wants the entire 106-line visual map reviewed before image creation. Then produce **ONE distinct sequential generation per sung lyric**, always supplying the previous accepted image's right edge as locked left-side pixel context for the next generation. Grow the picture rightward by controlled outpainting; no blind independent shots, alpha crossfades, repeated scenes, or fake seamlessness. The 13 old art plates are storage bins only. Existing 13-plate render scripts have not been validated for 106-shot ingestion.
+
 # MOSAIC — Creative production contract
 
 Read [production/FULL_SONG_STORYBOARD.md](production/FULL_SONG_STORYBOARD.md) FIRST. It contains EVERY lyric as a visual beat at actual Sung Suno time. Then read [production/LINEAR_BASELINE.md](production/LINEAR_BASELINE.md). It overrides the earlier serpentine/three-register plan and any contradictory narrative path. Then read [docs/CATHEDRAL_DIRECTION.md](docs/CATHEDRAL_DIRECTION.md) and [production/camera_route.json](production/camera_route.json).
@@ -20,4 +22,4 @@ Read [production/FULL_SONG_STORYBOARD.md](production/FULL_SONG_STORYBOARD.md) FI
 - Source interview: https://www.youtube.com/watch?v=cB1GNO95iog
 - Song take 1: https://suno.com/song/38f117cc-015a-4c44-98dd-cfae3f1acd89
 - Source cue ledger: [docs/PROVENANCE.md](docs/PROVENANCE.md)
-- This branch contains design specifications only. It does not contain a finished mural, cathedral model, rendering pipeline, or proof video. Don't represent a planning asset as a render receipt.
+- This branch contains design maps, an unvalidated 13-plate stitcher and camera scaffold, and a blockout of cathedral geometry. There is NO finished mural, photoreal cathedral asset, verified 106-shot rendering pipeline, or proof video. Do not represent planning assets as a render receipt.
