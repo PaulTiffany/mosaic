@@ -1,6 +1,6 @@
 # MOSAIC — Creative production contract
 
-Read [docs/CATHEDRAL_DIRECTION.md](docs/CATHEDRAL_DIRECTION.md) and [production/camera_route.json](production/camera_route.json) before changing media scripts or constructing any asset. The current creative decision supersedes the abandoned flying-tile treatment.
+Read [production/LYRIC_CAMERA_ATLAS.md](production/LYRIC_CAMERA_ATLAS.md) FIRST, then [docs/CATHEDRAL_DIRECTION.md](docs/CATHEDRAL_DIRECTION.md) and [production/camera_route.json](production/camera_route.json) before changing media scripts or constructing any asset. **The lyric camera atlas supersedes camera_route.json where their spatial targets disagree.** The current creative decision supersedes the abandoned flying-tile treatment.
 
 ## Non-negotiable visual invariant
 
@@ -9,7 +9,7 @@ Read [docs/CATHEDRAL_DIRECTION.md](docs/CATHEDRAL_DIRECTION.md) and [production/
 ## Correct order of operations
 
 1. Plan and produce a single source-grounded wide mural master depicting the entire song in spatially meaningful symbols. Original cover art serves as identity and style reference only.
-2. Verify the mural actually carries the song narrative when read spatially. Keep an annotated static atlas with mural coordinates tied to interview timestamps.
+2. Verify exact lyric-to-pixel narrative with lyric-timed crop previews; reject thematic collages, cathedral-framed images, and art lacking scene adjacency. Keep an annotated static atlas with mural coordinates tied to interview timestamps.
 3. Build a physically coherent static cathedral scene and mount the image as a single UV-mapped planar artwork.
 4. Animate only the 3D camera. Produce a short real-camera proof from that scene and inspect before undertaking the full 4:36.56 timeline.
 5. Align to the selected song take's measured timings, which are best-effort until listening confirms cuts/sections. Spend no download credits without approval.
