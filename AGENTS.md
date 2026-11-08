@@ -1,6 +1,6 @@
 # MOSAIC — Creative production contract
 
-Read [production/LINEAR_BASELINE.md](production/LINEAR_BASELINE.md) FIRST. It overrides the earlier serpentine/three-register plan and any contradictory narrative path. Then read [docs/CATHEDRAL_DIRECTION.md](docs/CATHEDRAL_DIRECTION.md) and [production/camera_route.json](production/camera_route.json).
+Read [production/FULL_SONG_STORYBOARD.md](production/FULL_SONG_STORYBOARD.md) FIRST. It contains EVERY lyric as a visual beat at actual Sung Suno time. Then read [production/LINEAR_BASELINE.md](production/LINEAR_BASELINE.md). It overrides the earlier serpentine/three-register plan and any contradictory narrative path. Then read [docs/CATHEDRAL_DIRECTION.md](docs/CATHEDRAL_DIRECTION.md) and [production/camera_route.json](production/camera_route.json).
 
 ## Non-negotiable visual invariant
 
